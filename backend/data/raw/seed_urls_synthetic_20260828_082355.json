@@ -1,0 +1,2890 @@
+{
+  "scraper": "synthetic_generator",
+  "scraped_at": "2026-08-28T02:53:55.288575+00:00",
+  "config_snapshot": {
+    "distribution": 106
+  },
+  "stats": {
+    "total_fetched": 106,
+    "after_keyword_filter": 106,
+    "is_synthetic": true
+  },
+  "records": [
+    {
+      "record_id": "0798dbda-b482-4e2f-9419-d588832e4584",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/d05513a1-2dda-447e-8a01-74eb25bea1c1",
+      "raw_text": "I want to buy these jeans but I'm unsure about the fit. The size chart is confusing. So confusing.",
+      "date_published": "2026-03-09T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "1253a650-095e-4516-b89a-e6577ef556d3",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/c495a13c-816f-4175-b263-e1056c3ab572",
+      "raw_text": "I want to buy these jeans but I'm unsure about the fit. The size chart is confusing. So confusing.",
+      "date_published": "2026-04-01T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "b2648e30-447c-4deb-8de7-eba5e9aafd36",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/3f6fa6f0-9f1a-48e9-a39c-00f1923c695e",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. Really annoying.",
+      "date_published": "2026-03-12T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "f314ce16-539e-46d6-83b6-137e0dc5a95f",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/1590961d-d984-4e26-b0b5-a02179a3a0c0",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now. Please fix this.",
+      "date_published": "2025-11-04T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "20023aef-193d-4088-94a3-c453fd8e9b7e",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/5b3fd2ed-b9b9-4e0a-a7d0-4312bde5a5d0",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. Sigh.",
+      "date_published": "2026-06-17T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "76d6f0a9-a7e5-4f0b-b34d-c54bc61cf416",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/c92cf328-ba89-4ae0-9fc4-f31d5c5a0fa0",
+      "raw_text": "Looks great but I don't want the hassle of returns if it doesn't fit. Myntra needs a better fit predictor. Sigh.",
+      "date_published": "2025-11-29T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "44a172d6-da73-48dc-aedb-96d52d2aa0fc",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/3890ea66-0b05-48fd-9c20-eaa24faf0b2e",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now. So confusing.",
+      "date_published": "2026-04-30T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "8514bb5f-f952-487f-a490-8db112e8096b",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/5e77ffd0-5d9b-41cb-9906-64f4d413a49a",
+      "raw_text": "Wish I could easily compare these 3 shoes side by side. Leaving them in my wishlist for now. Sigh.",
+      "date_published": "2026-01-03T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "c736a628-8947-4478-bec3-ceb60e7ce38f",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/554489e3-7111-4131-b863-49db71dbe514",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. Sigh.",
+      "date_published": "2026-05-05T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "8dbcfe86-3d20-48f4-9b33-da3f1b2c2690",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/2f95430c-d08a-4b28-822c-be9358302859",
+      "raw_text": "I have 5 different black dresses saved. I can't decide which one is best. The wishlist is too cluttered. So confusing.",
+      "date_published": "2026-03-21T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "b1aa227c-1c4d-4189-8f99-138466730f7e",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/62ac8a88-11a3-4f73-b3c8-2d5c0a3f2a8b",
+      "raw_text": "Comparing this with a similar top on Ajio. Hard to compare prices easily across apps. Please fix this.",
+      "date_published": "2026-02-27T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "26c4a9f5-2853-4f04-902e-7dd9a30b638e",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/7ff62364-991b-438b-baba-aad639878e65",
+      "raw_text": "I have 5 different black dresses saved. I can't decide which one is best. The wishlist is too cluttered. So confusing.",
+      "date_published": "2026-07-30T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "d30e8549-228c-4c99-8dee-1fc0d678873d",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/5e6d4d32-b071-4b82-81eb-8a02c26a1888",
+      "raw_text": "Saved it for later. I need better size information before I spend this much. Really annoying.",
+      "date_published": "2026-05-13T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "be2b7670-dabd-4a4f-b9e9-f3cd13a81f61",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/fd5e7b1b-68e6-4515-86ee-8b3471a11a39",
+      "raw_text": "Comparing this with a similar top on Ajio. Hard to compare prices easily across apps. Sigh.",
+      "date_published": "2025-11-16T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "a23c7f7f-ee7b-468d-9619-da31f9201dd0",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/2c80f976-b86a-4907-a55f-cab72df010a0",
+      "raw_text": "The pictures look nice but I can't tell what the fabric feels like. Wishlisted it until I find a YouTube review. Please fix this.",
+      "date_published": "2026-06-05T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "673a84ee-c710-4f24-a044-b78ebb10e0b4",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/c29a6d7b-1fda-49bf-a379-8c86e935fffe",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now. So confusing.",
+      "date_published": "2026-05-19T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "ed5c82df-d10f-4d30-b006-944a21554422",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/c6090ca7-2f34-4fd8-99a7-d4134e67a33d",
+      "raw_text": "Is the material actually good or will it shrink? Hard to tell from the app. Saved it while I research. Please fix this.",
+      "date_published": "2025-12-05T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "51f1ae0a-863d-47af-b004-1c1987e916a3",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/cf893d88-9498-442e-bcb6-28fd7ddad4ea",
+      "raw_text": "I wish there were more reviews about how this fits for taller people. Keeping in wishlist for now. Please fix this.",
+      "date_published": "2025-09-10T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "2246fd4e-858d-4505-85db-4e6074c3ffcc",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/b51aef53-e7b0-4b3b-9171-355688b75bf4",
+      "raw_text": "Why doesn't Myntra notify me when the price of my wishlisted items goes down? I missed the sale! Please fix this.",
+      "date_published": "2026-04-09T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "20d9ea03-0cbc-490a-aa15-640f01647639",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/9cacc65d-a77b-4873-959c-36023186c417",
+      "raw_text": "Why doesn't Myntra notify me when the price of my wishlisted items goes down? I missed the sale! So confusing.",
+      "date_published": "2026-03-31T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "22252c47-5a2c-42a9-ad09-9719d0ac82d7",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/c5c7c7e9-a1e3-4980-b7e7-2b5b411d86c3",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops. Please fix this.",
+      "date_published": "2026-02-26T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "1752d311-b5f0-4741-b9cd-3c149c89de83",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/987e53ef-b364-4148-af46-2cf55d3df36c",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. So confusing.",
+      "date_published": "2026-07-21T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "b4b2cb9c-ae7f-4fae-b810-46ce1911d945",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/03b9774e-cf4f-4fc8-be5b-3940e0ef547b",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. Really annoying.",
+      "date_published": "2026-05-11T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "aa1ca6b0-d968-4606-88c2-afe5704ad4af",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/26fed81e-61ab-4fa7-a995-6432683c6426",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops. Really annoying.",
+      "date_published": "2026-04-15T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "ec725758-7eb2-4532-b55e-eabd51697445",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/34b52e5a-38e8-4ae4-8014-d5865c06e417",
+      "raw_text": "Comparing this with a similar top on Ajio. Hard to compare prices easily across apps. So confusing.",
+      "date_published": "2026-03-12T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "6d880e54-b595-4528-b8b9-ab209cc9b0f4",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/9b26ef0b-6c00-47db-845d-78358a612446",
+      "raw_text": "I want to buy these jeans but I'm unsure about the fit. The size chart is confusing. Sigh.",
+      "date_published": "2025-09-13T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "42edde6a-a061-45e5-baaf-6ff798f3e537",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/2a7db2ca-93b0-4010-a023-4448a7244f93",
+      "raw_text": "Why doesn't Myntra notify me when the price of my wishlisted items goes down? I missed the sale!",
+      "date_published": "2026-05-17T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "2e8bb56d-d624-4e42-8ce7-8a9df98d20f4",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/a248a165-3aa9-4265-b67e-a6499576a9fb",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops. Really annoying.",
+      "date_published": "2026-03-24T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "8979385c-1615-4d42-ae42-557fc19cd87d",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/602bdf8f-4381-4cba-8630-5a6907e31fd6",
+      "raw_text": "Looks great but I don't want the hassle of returns if it doesn't fit. Myntra needs a better fit predictor. Please fix this.",
+      "date_published": "2026-05-18T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "dd8a8978-1ac1-4979-9957-35febc65f5c0",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/53080020-008f-4188-b0a6-7357c76845f2",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops. Sigh.",
+      "date_published": "2026-05-09T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "01ecb898-d9b0-4f33-a1c1-1d09743208b6",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/0d0cb9a6-e7e9-4af1-bedb-5156cd1adff3",
+      "raw_text": "I want to buy these jeans but I'm unsure about the fit. The size chart is confusing. Please fix this.",
+      "date_published": "2025-11-19T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "24243fb7-cd4c-4300-8d06-55dfce332737",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/fa8b4890-ca82-4dda-8f72-46f44a0cf15d",
+      "raw_text": "Saved it for later. I need better size information before I spend this much.",
+      "date_published": "2025-12-09T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "5e1157b4-6581-401b-b104-a8da6f2fd8dc",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/15f7270c-a951-486c-847f-10d1141bf072",
+      "raw_text": "Saved it for later. I need better size information before I spend this much.",
+      "date_published": "2026-01-05T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "0b2c046a-e8a2-424d-9676-f8c6b8826940",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/6dfa3831-5731-4c87-9b6f-00cf3831f1fb",
+      "raw_text": "Why doesn't Myntra notify me when the price of my wishlisted items goes down? I missed the sale!",
+      "date_published": "2026-07-22T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "70555008-0e29-4ef9-a00a-619df77ffe62",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/c63317e3-e6ab-4da9-a36a-97b60f46d77a",
+      "raw_text": "Why doesn't Myntra notify me when the price of my wishlisted items goes down? I missed the sale!",
+      "date_published": "2026-02-02T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "ee381350-2e68-456d-bb87-e2cf72d18243",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/a4dca2dd-f244-4964-a7b8-55d8a45c3db2",
+      "raw_text": "Saved it for later. I need better size information before I spend this much. Really annoying.",
+      "date_published": "2026-07-14T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "100c6127-5532-483d-ad1b-4b90d5bc52c9",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/8ec630ba-79b8-4dc4-875c-6fab340ab5df",
+      "raw_text": "Why doesn't Myntra notify me when the price of my wishlisted items goes down? I missed the sale! So confusing.",
+      "date_published": "2025-09-11T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "43e99879-0b66-449f-877f-a76032b666e5",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/12b7dcc7-0d5b-43a2-9803-4c166f604468",
+      "raw_text": "I want to buy these jeans but I'm unsure about the fit. The size chart is confusing. So confusing.",
+      "date_published": "2026-05-25T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "3b067b58-461f-4f7f-a29b-45e90e167ddf",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/e8026bad-b72a-480c-aea3-fb055a4289b5",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops. Really annoying.",
+      "date_published": "2025-11-07T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "d4c1fe15-374f-4616-a491-40481864f045",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/7ec45ba6-cc4f-44f1-a8a5-569ace90c030",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now. Sigh.",
+      "date_published": "2026-01-04T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "f87f0b57-9ffc-420f-bdf4-36a3ee76bba4",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/9c6b7d14-cc9c-4c72-b7fe-0adef3456f80",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. Please fix this.",
+      "date_published": "2026-03-25T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "0777f5f9-dfec-44b4-9094-16f26255a3ca",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/12a7cc94-945b-41d7-82ad-4ba024126fbf",
+      "raw_text": "Looks great but I don't want the hassle of returns if it doesn't fit. Myntra needs a better fit predictor. Please fix this.",
+      "date_published": "2025-12-22T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "ad3608a4-26ea-42e2-bdb9-7daaf7378842",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/0e3a5925-d4d5-4de9-94a5-80639137fd04",
+      "raw_text": "Comparing this with a similar top on Ajio. Hard to compare prices easily across apps. Sigh.",
+      "date_published": "2026-06-17T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "401679a6-e193-4712-992f-2fe7451096eb",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/158404eb-9633-4a28-8d95-78938717adad",
+      "raw_text": "I want to buy these jeans but I'm unsure about the fit. The size chart is confusing. So confusing.",
+      "date_published": "2026-06-09T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "7d199940-941e-475d-9a33-7e9b75aefb64",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/91ef32b5-eee2-439c-b4ef-82c164757d30",
+      "raw_text": "Is the material actually good or will it shrink? Hard to tell from the app. Saved it while I research. Please fix this.",
+      "date_published": "2026-07-19T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "406eb013-b196-4e2b-83ff-fa9b39c321dc",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/ba5037c9-284f-4794-856c-e76ea20634e3",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now. Really annoying.",
+      "date_published": "2025-11-06T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "0e941f97-b54a-4b37-bad2-6e787428d0aa",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/245d26cd-2d45-41aa-8efb-6ea40d0e4db9",
+      "raw_text": "Wishlisted here, but checking Amazon to see if it's cheaper there. Really annoying.",
+      "date_published": "2025-11-23T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "15ee3280-2a9c-427a-bc23-317439c92d8c",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/78ae3562-365a-4f3b-a0d1-c06cad60b65e",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. So confusing.",
+      "date_published": "2026-06-13T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "c6f7eee4-25a6-47c1-b0a7-7589e50e9cf1",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/79a43ba5-8a4a-48f5-8cd7-7d6ae6681b1e",
+      "raw_text": "Wish I could easily compare these 3 shoes side by side. Leaving them in my wishlist for now. So confusing.",
+      "date_published": "2026-03-07T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "5de94aab-e252-4f3c-b52a-ffe04da8f3f5",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/e055646c-6580-4eda-9fc7-24c790614671",
+      "raw_text": "Is the material actually good or will it shrink? Hard to tell from the app. Saved it while I research. So confusing.",
+      "date_published": "2026-05-04T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "83e92462-539c-4bfa-ba6e-e457c2d046ac",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/1f3a74d2-9ca5-4ac9-99c8-bae965fb0eeb",
+      "raw_text": "Waiting to see if anyone posts a haul with this top. The material details are very vague. Please fix this.",
+      "date_published": "2026-01-20T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "41548877-5dac-485b-a0ad-a35e51a9a873",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/30168d08-c3ee-4884-a0c3-a71787838c1d",
+      "raw_text": "Wish I could easily compare these 3 shoes side by side. Leaving them in my wishlist for now. So confusing.",
+      "date_published": "2025-08-28T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "8634cd0e-be1c-49c3-830a-b11448b52241",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/67390935-975e-4099-8bd1-feb3c3485ce3",
+      "raw_text": "Wishlisted here, but checking Amazon to see if it's cheaper there. Please fix this.",
+      "date_published": "2025-09-07T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "e5fb1233-4c24-450c-90ae-eed445ebabbc",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/08152c5c-2b91-45a0-9230-f3a9ea4b8da1",
+      "raw_text": "Wishlisted here, but checking Amazon to see if it's cheaper there. Sigh.",
+      "date_published": "2026-07-30T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "e06bc008-d952-4690-9a15-144e922f5dd1",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/f1bdafe9-b91b-4a38-bb86-c9be7f0002dd",
+      "raw_text": "Saved it for later. I need better size information before I spend this much. Sigh.",
+      "date_published": "2026-08-08T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "0c4cc959-6649-408a-9962-60242f64c9e8",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/70d2475a-cdd0-4e37-9c31-f13fb9c70c50",
+      "raw_text": "I want to buy these jeans but I'm unsure about the fit. The size chart is confusing. So confusing.",
+      "date_published": "2026-01-25T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "024269ea-d376-40ef-bb3a-5ff902545231",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/c795b62a-bcbd-484c-96b6-8339574334f1",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts.",
+      "date_published": "2026-07-27T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "123a72f8-aaec-4f49-96ac-73a5fad64395",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/d6193335-dd83-4ebf-b59e-edd4970b1972",
+      "raw_text": "Why doesn't Myntra notify me when the price of my wishlisted items goes down? I missed the sale! Please fix this.",
+      "date_published": "2026-08-25T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "3d25e992-f2ff-4409-a072-c51ce78e02d6",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/27e2ad50-c91a-4450-99a3-73a348b8cf1d",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops. Please fix this.",
+      "date_published": "2025-10-11T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "4719c3a6-51ae-44b7-afb5-ffbe5bb0225a",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/be25a889-bab9-442c-8e9a-07294b35d333",
+      "raw_text": "Wish I could easily compare these 3 shoes side by side. Leaving them in my wishlist for now. Sigh.",
+      "date_published": "2026-07-16T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "7733ed26-f064-4ba2-9421-c762a90970c1",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/abc2d028-2f3f-4fd7-9d96-25673e2d5175",
+      "raw_text": "Why doesn't Myntra notify me when the price of my wishlisted items goes down? I missed the sale! Really annoying.",
+      "date_published": "2026-02-26T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "eebfe7c3-ce38-47e6-8991-6b77a170ff47",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/26d390b3-b842-40a6-a1cc-a9b8b88ab178",
+      "raw_text": "Wishlisted here, but checking Amazon to see if it's cheaper there. Sigh.",
+      "date_published": "2026-04-01T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "cd6090c0-0d89-48cb-8070-e497455f680a",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/9310b443-d79d-4428-8389-a21d7c3c20df",
+      "raw_text": "Saved it for later. I need better size information before I spend this much.",
+      "date_published": "2026-03-18T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "6e4a1877-f40f-42cc-867f-018575009f6f",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/f69a3eef-ad12-4ae0-8164-60e54845fda9",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops. So confusing.",
+      "date_published": "2025-11-30T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "fc49d0ea-252e-4c87-9514-38630544f4c6",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/f26dc30a-f7a2-4c51-b726-bd294a210bff",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now.",
+      "date_published": "2026-07-29T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "85b767c2-ae77-4a24-a933-af549238e00e",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/0853f5e4-aded-46a0-93e2-001f80b47538",
+      "raw_text": "Why doesn't Myntra notify me when the price of my wishlisted items goes down? I missed the sale! Please fix this.",
+      "date_published": "2026-08-15T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "86a0f6d6-faf9-4c98-b65b-5546214c7a42",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/373fac97-987d-48f3-916b-41048b08e4ed",
+      "raw_text": "I have 5 different black dresses saved. I can't decide which one is best. The wishlist is too cluttered. So confusing.",
+      "date_published": "2026-04-30T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "1996b028-bf4a-42f7-b1a2-12097f7ea03f",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/d730b598-2e04-45f0-8019-3c9e631ee67a",
+      "raw_text": "Saved it for later. I need better size information before I spend this much. Sigh.",
+      "date_published": "2026-06-30T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "cce74a16-4a4c-488e-b629-7c7ed35207eb",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/182bfe44-1601-486e-9b6f-4b5dbeec2f3c",
+      "raw_text": "Wish I could easily compare these 3 shoes side by side. Leaving them in my wishlist for now. Sigh.",
+      "date_published": "2026-06-18T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "0c1a988d-7f09-49b0-a18d-cc6e2875f01f",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/36e1fae6-1728-4b9e-af58-0bf1274e80fd",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. Sigh.",
+      "date_published": "2026-07-18T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "51fdb82f-c43b-42d7-9b05-f38c8e8fa73e",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/7a132121-7198-4934-83bb-7fc2034843c6",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now. Really annoying.",
+      "date_published": "2025-10-26T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "777ef48a-9348-4614-8272-89c18973ebaf",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/e4169243-c88f-4757-a7d6-c58e6e5d4163",
+      "raw_text": "Wishlisted here, but checking Amazon to see if it's cheaper there. Really annoying.",
+      "date_published": "2026-01-17T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "ac7c3b40-6ff0-4663-879d-4c78256ba68e",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/5494b22f-2432-4bb0-a274-71806b23aa80",
+      "raw_text": "Looks great but I don't want the hassle of returns if it doesn't fit. Myntra needs a better fit predictor. Please fix this.",
+      "date_published": "2026-02-16T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "2c0ed45d-7ca7-46dd-92f6-b0e3c7bef67d",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/7b4c23c4-1d6f-41c7-b8f6-bcf8671f2b57",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now. Please fix this.",
+      "date_published": "2025-11-25T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "0b78072d-c71c-44d4-baab-44aa29356d91",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/c23bf3e5-6736-44d5-b714-2210f2dc6605",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops.",
+      "date_published": "2025-12-13T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "84e158c5-f961-43b2-9ea5-29bb6f029a21",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/d68c87a0-3f40-4519-965b-b7292076da07",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts.",
+      "date_published": "2026-03-04T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "94c9ffe7-bf80-4f31-8366-7654d1c17d7c",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/2d701b56-5ff0-4269-9868-41b867de87dc",
+      "raw_text": "I want to buy these jeans but I'm unsure about the fit. The size chart is confusing. Please fix this.",
+      "date_published": "2026-01-10T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "e2b888a6-dcb6-41c9-a3c1-59f0fc246834",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/36b92fdc-1fbb-4beb-b54c-56eded1c464d",
+      "raw_text": "Wish I could easily compare these 3 shoes side by side. Leaving them in my wishlist for now. So confusing.",
+      "date_published": "2026-04-15T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "9ce49dca-4f8f-4abf-8496-7fba38ad0e48",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/799b3c72-6198-4dcb-8acc-e4f01f71dc35",
+      "raw_text": "Looks great but I don't want the hassle of returns if it doesn't fit. Myntra needs a better fit predictor. Sigh.",
+      "date_published": "2026-07-24T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "33eb3ee1-c74b-4cef-91a5-62321dce83d5",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/498cbfa2-2149-43e0-9191-d06f6d59cf88",
+      "raw_text": "The pictures look nice but I can't tell what the fabric feels like. Wishlisted it until I find a YouTube review. Sigh.",
+      "date_published": "2025-09-21T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "64724373-ca6d-44b6-898e-cf7194c16229",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/1dda4d75-b0fe-4d94-987c-2f4ac5ac76a1",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now. So confusing.",
+      "date_published": "2026-05-02T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "c39498e1-2500-4710-964f-9dc3a12d0a46",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/5247333c-59ff-46fb-9aa1-83633713519a",
+      "raw_text": "Saved it for later. I need better size information before I spend this much. Really annoying.",
+      "date_published": "2026-07-23T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "50c42c26-a99d-4cec-aabf-edcd809cfde2",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/d0213509-2357-499b-b5de-9f38ef63e948",
+      "raw_text": "I wish there were more reviews about how this fits for taller people. Keeping in wishlist for now. Really annoying.",
+      "date_published": "2025-11-03T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "79093bcb-3d51-4886-bef2-cc87221ebd43",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/e1c6975e-0dbf-4794-b6f5-7916e425a03f",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. Please fix this.",
+      "date_published": "2025-11-03T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "1aee80c2-ea47-4cfd-ac61-8d9412096285",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/3dcc44a0-71c4-4a9a-a0a8-60be906c1714",
+      "raw_text": "Waiting to see if anyone posts a haul with this top. The material details are very vague.",
+      "date_published": "2025-12-30T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "e704ef8f-ab3a-48ab-ae2e-379c4caf2f6c",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/b0026bca-70cf-47aa-8368-068d196d0f0a",
+      "raw_text": "Is the material actually good or will it shrink? Hard to tell from the app. Saved it while I research. Sigh.",
+      "date_published": "2025-12-14T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "20c36f47-5ea2-4264-93f5-43102492b8ec",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/331cf7d6-c8f2-4522-8e94-1bb6cca0b8b6",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. Really annoying.",
+      "date_published": "2026-05-07T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "f0484b2a-2690-4819-bc97-0b4cbd7132fa",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/936ceb0d-7f21-4c2b-b4a9-8c179e7e9d3e",
+      "raw_text": "I have 5 different black dresses saved. I can't decide which one is best. The wishlist is too cluttered.",
+      "date_published": "2025-10-19T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "79c3d755-ce04-49c1-9bed-cb655ce23fd0",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/d3a4d5a3-58dd-421a-b178-cc205e225c8d",
+      "raw_text": "Why doesn't Myntra notify me when the price of my wishlisted items goes down? I missed the sale!",
+      "date_published": "2025-11-05T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "827e191d-1105-42c1-bbba-ffb232db9cbf",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/f458a407-e34d-4d0e-bd05-ac9497651543",
+      "raw_text": "Saved it for later. I need better size information before I spend this much. Please fix this.",
+      "date_published": "2026-06-02T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "c71e91b3-45ff-4d1b-8254-11ee9b90f706",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/4d9301f2-339b-49a4-98fe-d86e37503791",
+      "raw_text": "Saved it for later. I need better size information before I spend this much. Really annoying.",
+      "date_published": "2025-10-21T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "c320cb60-d2ef-4654-b2d6-ffa96ad9b4f5",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/b69f1ff0-3800-4e00-bd83-b156a4d1ac25",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. Please fix this.",
+      "date_published": "2026-03-24T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "90f301bd-69fd-4fbd-bbc9-2c717288dbb6",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/258d4a83-ae37-4a2c-b506-c79da3e0a494",
+      "raw_text": "I want to buy these jeans but I'm unsure about the fit. The size chart is confusing. Sigh.",
+      "date_published": "2025-12-19T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "ee216cb4-e60b-41ea-98ef-e92367a3d1b1",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/cb628457-8861-4117-a4b3-2bcc081525ac",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. Please fix this.",
+      "date_published": "2026-02-26T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "9ec4cdc5-d8b1-4061-ba30-dcb01d528b7a",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/0ec78445-53fd-4eda-a4aa-a02aa84ec5e5",
+      "raw_text": "I have 5 different black dresses saved. I can't decide which one is best. The wishlist is too cluttered. Sigh.",
+      "date_published": "2025-10-16T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "9941dc8e-c504-407e-9489-bd7c86d6801a",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/b1503a12-7efe-4001-97f5-9b440eb49d00",
+      "raw_text": "The pictures look nice but I can't tell what the fabric feels like. Wishlisted it until I find a YouTube review. Please fix this.",
+      "date_published": "2026-06-15T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "71cb2da8-fcd9-4735-9d71-ca3af48c5652",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/29f68674-86aa-47a5-bd82-7e27fef737df",
+      "raw_text": "Is the material actually good or will it shrink? Hard to tell from the app. Saved it while I research. Please fix this.",
+      "date_published": "2026-02-01T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "1509de03-6fdd-44bf-bc26-9c099076a673",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/fb1c1e21-c399-4612-a0fc-0e55260b5e4c",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops.",
+      "date_published": "2026-05-20T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "7cd4ecf5-d1b1-4668-8765-c626d67da919",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/6d585ad6-0d28-497f-938d-2e1f30b5c550",
+      "raw_text": "The pictures look nice but I can't tell what the fabric feels like. Wishlisted it until I find a YouTube review. Really annoying.",
+      "date_published": "2026-07-20T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "e58d9d3b-faf5-4dc9-b07e-99b6924158d3",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/685b5371-4bc8-4593-8856-e4c77cc2f9a1",
+      "raw_text": "Saved it for later. I need better size information before I spend this much.",
+      "date_published": "2026-06-19T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "51cb3b73-1fad-4644-80d5-83862e7dbf61",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/9dbd3c3c-b472-424c-8619-5b7aaedff32e",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now. Sigh.",
+      "date_published": "2026-07-25T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "138d300e-2419-4f6d-82c0-1c013ca91312",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/b0d31186-91a5-4f97-bbf8-29f558b9cdd0",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops. Really annoying.",
+      "date_published": "2026-07-09T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "2f170551-da40-456e-9dcb-036a8d24dfe6",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/e017ba6f-f292-4582-86ec-a24c4d4fda32",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. So confusing.",
+      "date_published": "2026-03-06T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "f4319f05-5bfa-4c64-a2bb-4a2e2e135b36",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/97f418d7-b97b-4ea6-b12b-bbb74c91f5c4",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. Please fix this.",
+      "date_published": "2026-02-13T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "a83e5d13-9383-4610-95fd-dac24aab4892",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/ba02fc41-2408-4896-973c-83e28d398383",
+      "raw_text": "Wishlisted here, but checking Amazon to see if it's cheaper there. Really annoying.",
+      "date_published": "2026-07-02T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "55fc4155-7e23-475b-8c4c-2dcdc5c50385",
+      "source_type": "seed_urls",
+      "platform": "Web Article",
+      "original_url": "https://synthetic.data/seed_urls/ed023977-d4cd-445c-ad04-76c33a5f658a",
+      "raw_text": "I wish there were more reviews about how this fits for taller people. Keeping in wishlist for now. Really annoying.",
+      "date_published": "2025-12-24T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    }
+  ]
+}

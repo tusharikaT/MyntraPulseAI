@@ -1,0 +1,103 @@
+{
+  "scraper": "social_media",
+  "scraped_at": "2026-08-25T13:21:14.203747+00:00",
+  "config_snapshot": {
+    "post_count": 6
+  },
+  "stats": {
+    "total_fetched": 6,
+    "errors": 0
+  },
+  "records": [
+    {
+      "record_id": "e480a564-2442-49d1-ad88-d5bb39c9babb",
+      "source_type": "social_media",
+      "platform": "LinkedIn",
+      "original_url": "https://www.linkedin.com/posts/yashita-aggarwal14_product-feature-analysis-myntra-activity-7425157253982466048-lerO",
+      "raw_text": "Yashita Aggarwal 6mo Edited Report this post I was using Myntra ’s Wishlist recently, trying to buy something I had saved weeks ago.\nWhat should’ve been a quick decision turned into… scrolling. A lot of it. 🤔 \n\nAs I dug deeper during a feature analysis assignment, the reason became clear.\n\nHere’s the story the Wishlist was telling 👇\n🔍 Pain points I discovered:\n• Out-of-stock items often appear before purchasable ones, hiding what users can actually buy\n• There’s no clear visual distinction between available and unavailable items\n• As wishlists grow, finding relevant items becomes effort-heavy instead of helpful\n\nWhat started as a “save for later” feature slowly turns into decision fatigue.\n\n💡 The insight:\nWishlist users aren’t browsing — they’re ready to act. And every extra scroll delays that action.\n\n🛠 How this shapes my PM thinking:\nGood product design isn’t about adding more features — it’s about removing friction at the moment of intent.\n\n📊 Full breakdown with solutions in my deck below 👇\n\nHuge thanks to Product Space for pushing real-world product thinking 🙌 Arun Nandewal Aayush Agrawal Akhil Yash Tiwari Priyanka Gupta Aman gupta Shagun Jain Divita Bhatia Tanushree Shukla Rohit Tandle Sunanda Bharathi Myntra #ProductManagement #UXThinking #ProductDiscovery #LearningInPublic #ProductSpace 32 2 Comments Like Comment Share Copy LinkedIn Facebook X Aayush Agrawal 6mo Report this comment Great breakdown Yashita Like Reply 1 Reaction 2 Reactions To view or add a comment, sign in",
+      "date_published": null,
+      "date_scraped": "2026-08-25T13:20:22.152064+00:00",
+      "rating": null,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "author": ""
+      }
+    },
+    {
+      "record_id": "660a2d5b-23ea-4e6a-9689-0909cd5c4977",
+      "source_type": "social_media",
+      "platform": "LinkedIn",
+      "original_url": "https://www.linkedin.com/posts/avneesh-singh-ba2097127_ux-revenue-myntra-activity-7306593408276385792-Eccl",
+      "raw_text": "Avneesh Singh 1y Report this post A #UX Flaw in Myntra’s Wishlist: How Many In-Stock Items Are You Missing?\n\nWishlist functionality in e-commerce apps is crucial—it helps users track items they love and buy them later. But what if a UX gap makes users believe their desired products are out of stock when they’re actually available?  \n\nWhile using Myntra’s Wishlist, I noticed something odd. At first glance, it showed around 15-20 in-stock items, followed by out-of-stock products. Naturally, one would assume that everything beyond this point is unavailable. However, when I scrolled further, a refresh occurred, and more in-stock items suddenly appeared -ones that were previously hidden behind the out-of-stock section.  \n\nWhy is this a problem?  \n1. False Scarcity Perception– Users may assume items they saved are no longer available and leave the app without purchasing.  \n2. Missed #Revenue Opportunity – A potential sale is lost simply because an in-stock item isn’t surfaced properly.  \n3. Frustrating UX – Users who don’t scroll far enough might abandon their Wishlist altogether.  \n\nThe Fix?  \nInstead of prioritizing out-of-stock items too early, #Myntra could:  \n✅ Load all in-stock items first before showing out-of-stock ones.  \n✅ Improve visibility by clearly indicating more items are available with a “Load More” button or seamless infinite scroll.  \n\nA small UX tweak could lead to better conversions, improved user trust, and a smoother shopping experience.  \n\nHave you noticed similar issues in other apps? Let’s discuss how UX impacts business outcomes! 🚀 #ProductManagement #UX #Ecommerce Myntra Fashion Myntra #nanditasinha Nandita Sinha #RCA #Ecommerce 1 Like Comment Share Copy LinkedIn Facebook X To view or add a comment, sign in",
+      "date_published": null,
+      "date_scraped": "2026-08-25T13:20:31.662613+00:00",
+      "rating": null,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "author": ""
+      }
+    },
+    {
+      "record_id": "d57ef37a-7e77-403e-bc43-b10ee82b9849",
+      "source_type": "social_media",
+      "platform": "LinkedIn",
+      "original_url": "https://www.linkedin.com/posts/vineetajain_uxdesign-uiux-activity-7374709051441545216-MOuh",
+      "raw_text": "選擇語言 Bahasa Indonesia (Bahasa Indonesia) Bahasa Malaysia (Malay) Čeština (Czech) Dansk (Danish) Deutsch (German) English (English) Español (Spanish) 繁體中文 (Chinese (Traditional)) Français (French) 한국어 (Korean) Italiano (Italian) 简体中文 (Chinese (Simplified)) Nederlands (Dutch) 日本語 (Japanese) Norsk (Norwegian) Polski (Polish) Português (Portuguese) Română (Romanian) Русский (Russian) Svenska (Swedish) Tagalog (Tagalog) ภาษาไทย (Thai) Türkçe (Turkish) العربية (Arabic) لم يتم العثور على الصفحة عفواً، لم نتمكن من العثور على الصفحة التي تبحث عنها. برجاء المحاولة مرة أخرى للصفحة السابقة أو الانتقال لـ مركز المساعدة للمزيد من المعلومات الإنتقال لموجزك الرئيسي Stránka nenalezena Omlouváme se, nemůžeme najít stránku, kterou hledáte. Zkuste se vrátit zpátky na předchozí stránku, nebo se podívejte do našeho Centra nápovědy pro více informací Přejít do informačního kanálu Siden blev ikke fundet Vi kan desværre ikke finde den side, du leder efter. Gå tilbage til den forrige side, eller besøg Hjælp for at få flere oplysninger Gå til dit feed Seite nicht gefunden Die gewünschte Seite konnte leider nicht gefunden werden. Versuchen Sie, zur vorherigen Seite zurückzukehren, oder besuchen Sie unseren Hilfebereich , um mehr zu erfahren. Zu Ihrem Feed Page not found Uh oh, we can’t seem to find the page you’re looking for. Try going back to the previous page or see our Help Center for more information Go to your feed Página no encontrada Vaya, parece que no podemos encontrar la página que buscas. Intenta volver a la página anterior o visita nuestro Centro de ayuda para más información. Ir a tu feed Impossible de trouver cette page Nous ne trouvons pas la page que vous recherchez. Essayez de retourner à la page précédente ou consultez notre assistance clientèle pour plus d’informations Ouvrez votre fil Halaman ini tidak dapat ditemukan Maaf, sepertinya kami tidak dapat menemukan halaman yang Anda cari. Coba kembali ke halaman sebelumnya atau lihat Pusat Bantuan kami untuk informasi lebih lanjut Buka feed Anda Pagina non trovata Non abbiamo trovato la pagina che stai cercando. Prova a tornare alla pagina precedente o visita il nostro Centro assistenza per saperne di più. Vai al tuo feed ページが見つかりませんでした 申し訳ありません。お探しのページが見つかりません。前のページに戻るか、 ヘルプセンター で詳細をご確認ください フィードに移動 페이지 없음 원하시는 페이지를 찾을 수 없습니다. 이전 페이지로 돌아가거나 고객센터 에서 자세히 알아보세요. 홈으로 가기 Laman tidak ditemui Harap maaf, kami tidak dapat menemui laman yang ingin anda cari. Cuba kembali ke laman sebelumnya atau lihat Pusat Bantuan kami untuk maklumat lanjut Pergi ke suapan Pagina niet gevonden De pagina waar u naar op zoek bent, kan niet worden gevonden. Probeer terug te gaan naar de vorige pagina of bezoek het Help Center voor meer informatie Ga naar uw feed Fant ikke siden Vi finner ikke siden du leter etter. Gå tilbake til forrige side eller besøk vår brukerstøtte for mer informasjon Gå til din feed Nie znaleziono strony Nie możemy znaleźć strony, której szukasz. Spróbuj wrócić do poprzedniej strony lub nasze Centrum pomocy , ab",
+      "date_published": null,
+      "date_scraped": "2026-08-25T13:20:41.043214+00:00",
+      "rating": null,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_broad_fallback": true
+      }
+    },
+    {
+      "record_id": "ed09740c-12ff-488f-99f0-9f34c6eeea2d",
+      "source_type": "social_media",
+      "platform": "LinkedIn",
+      "original_url": "https://www.linkedin.com/posts/vineetajain_uxdesign-productdesign-uxaudit-product-activity-7373227574648299520-UZZv",
+      "raw_text": "選擇語言 Bahasa Indonesia (Bahasa Indonesia) Bahasa Malaysia (Malay) Čeština (Czech) Dansk (Danish) Deutsch (German) English (English) Español (Spanish) 繁體中文 (Chinese (Traditional)) Français (French) 한국어 (Korean) Italiano (Italian) 简体中文 (Chinese (Simplified)) Nederlands (Dutch) 日本語 (Japanese) Norsk (Norwegian) Polski (Polish) Português (Portuguese) Română (Romanian) Русский (Russian) Svenska (Swedish) Tagalog (Tagalog) ภาษาไทย (Thai) Türkçe (Turkish) العربية (Arabic) لم يتم العثور على الصفحة عفواً، لم نتمكن من العثور على الصفحة التي تبحث عنها. برجاء المحاولة مرة أخرى للصفحة السابقة أو الانتقال لـ مركز المساعدة للمزيد من المعلومات الإنتقال لموجزك الرئيسي Stránka nenalezena Omlouváme se, nemůžeme najít stránku, kterou hledáte. Zkuste se vrátit zpátky na předchozí stránku, nebo se podívejte do našeho Centra nápovědy pro více informací Přejít do informačního kanálu Siden blev ikke fundet Vi kan desværre ikke finde den side, du leder efter. Gå tilbage til den forrige side, eller besøg Hjælp for at få flere oplysninger Gå til dit feed Seite nicht gefunden Die gewünschte Seite konnte leider nicht gefunden werden. Versuchen Sie, zur vorherigen Seite zurückzukehren, oder besuchen Sie unseren Hilfebereich , um mehr zu erfahren. Zu Ihrem Feed Page not found Uh oh, we can’t seem to find the page you’re looking for. Try going back to the previous page or see our Help Center for more information Go to your feed Página no encontrada Vaya, parece que no podemos encontrar la página que buscas. Intenta volver a la página anterior o visita nuestro Centro de ayuda para más información. Ir a tu feed Impossible de trouver cette page Nous ne trouvons pas la page que vous recherchez. Essayez de retourner à la page précédente ou consultez notre assistance clientèle pour plus d’informations Ouvrez votre fil Halaman ini tidak dapat ditemukan Maaf, sepertinya kami tidak dapat menemukan halaman yang Anda cari. Coba kembali ke halaman sebelumnya atau lihat Pusat Bantuan kami untuk informasi lebih lanjut Buka feed Anda Pagina non trovata Non abbiamo trovato la pagina che stai cercando. Prova a tornare alla pagina precedente o visita il nostro Centro assistenza per saperne di più. Vai al tuo feed ページが見つかりませんでした 申し訳ありません。お探しのページが見つかりません。前のページに戻るか、 ヘルプセンター で詳細をご確認ください フィードに移動 페이지 없음 원하시는 페이지를 찾을 수 없습니다. 이전 페이지로 돌아가거나 고객센터 에서 자세히 알아보세요. 홈으로 가기 Laman tidak ditemui Harap maaf, kami tidak dapat menemui laman yang ingin anda cari. Cuba kembali ke laman sebelumnya atau lihat Pusat Bantuan kami untuk maklumat lanjut Pergi ke suapan Pagina niet gevonden De pagina waar u naar op zoek bent, kan niet worden gevonden. Probeer terug te gaan naar de vorige pagina of bezoek het Help Center voor meer informatie Ga naar uw feed Fant ikke siden Vi finner ikke siden du leter etter. Gå tilbake til forrige side eller besøk vår brukerstøtte for mer informasjon Gå til din feed Nie znaleziono strony Nie możemy znaleźć strony, której szukasz. Spróbuj wrócić do poprzedniej strony lub nasze Centrum pomocy , ab",
+      "date_published": null,
+      "date_scraped": "2026-08-25T13:20:50.299151+00:00",
+      "rating": null,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_broad_fallback": true
+      }
+    },
+    {
+      "record_id": "c0557cde-1691-4d17-8b4e-4a9780740bb2",
+      "source_type": "social_media",
+      "platform": "LinkedIn",
+      "original_url": "https://www.linkedin.com/posts/glny_its-a-great-example-of-how-small-ux-shifts-activity-7421465615481245696-OeY2",
+      "raw_text": "G Lakshmi Narasimha 7mo Report this post It’s a great example of how small UX shifts can drive real business impact.\nThe idea of converting the Wishlist from a passive list into an active decision making space is powerful.\nThe Wardrobe structure reduces cognitive load, while Try Now bridges the gap between intent and action.\nWhat I really like is how this concept aligns with existing Myntra UI patterns instead of reinventing the experience making it feel realistic and scalable.\nStrong thinking around user behavior and conversion 👏 Harishwar Goud 7mo I built a product concept for Myntra focused on improving the Wishlist journey and accelerating purchase decisions.\n\nThe core idea is to transform the Wishlist from a passive storage space into a more structured, decision-friendly experience using a feature called Wardrobe where saved items are organized into categories and a Try Now feature where users can build outfits from items already in their Wishlist.\n\nThis concept is grounded in user behavior, decision fatigue, and real shopping patterns, with a focus on improving wishlist-to-cart conversion and Average Order Value.\n\nI’d love to hear thoughts and feedback. Myntra Presentation link: https://lnkd.in/gRWtREQm Play Video Video Player is loading. Loaded : 0% Play Back to start Stream Type LIVE Current Time 0:00 / Duration -:- 1x Playback Rate Show Captions Mute Fullscreen 8 Like Comment Share Copy LinkedIn Facebook X To view or add a comment, sign in",
+      "date_published": null,
+      "date_scraped": "2026-08-25T13:20:59.953907+00:00",
+      "rating": null,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "author": ""
+      }
+    },
+    {
+      "record_id": "1ca42e3e-0d76-412f-b0c7-6fbb94bd40b5",
+      "source_type": "social_media",
+      "platform": "LinkedIn",
+      "original_url": "https://www.linkedin.com/posts/suchismita-debnath-342539b8_productmanagement-30daysofproduct-day1-activity-7315385479451889664-S",
+      "raw_text": "選擇語言 Bahasa Indonesia (Bahasa Indonesia) Bahasa Malaysia (Malay) Čeština (Czech) Dansk (Danish) Deutsch (German) English (English) Español (Spanish) 繁體中文 (Chinese (Traditional)) Français (French) 한국어 (Korean) Italiano (Italian) 简体中文 (Chinese (Simplified)) Nederlands (Dutch) 日本語 (Japanese) Norsk (Norwegian) Polski (Polish) Português (Portuguese) Română (Romanian) Русский (Russian) Svenska (Swedish) Tagalog (Tagalog) ภาษาไทย (Thai) Türkçe (Turkish) العربية (Arabic) لم يتم العثور على الصفحة عفواً، لم نتمكن من العثور على الصفحة التي تبحث عنها. برجاء المحاولة مرة أخرى للصفحة السابقة أو الانتقال لـ مركز المساعدة للمزيد من المعلومات الإنتقال لموجزك الرئيسي Stránka nenalezena Omlouváme se, nemůžeme najít stránku, kterou hledáte. Zkuste se vrátit zpátky na předchozí stránku, nebo se podívejte do našeho Centra nápovědy pro více informací Přejít do informačního kanálu Siden blev ikke fundet Vi kan desværre ikke finde den side, du leder efter. Gå tilbage til den forrige side, eller besøg Hjælp for at få flere oplysninger Gå til dit feed Seite nicht gefunden Die gewünschte Seite konnte leider nicht gefunden werden. Versuchen Sie, zur vorherigen Seite zurückzukehren, oder besuchen Sie unseren Hilfebereich , um mehr zu erfahren. Zu Ihrem Feed Page not found Uh oh, we can’t seem to find the page you’re looking for. Try going back to the previous page or see our Help Center for more information Go to your feed Página no encontrada Vaya, parece que no podemos encontrar la página que buscas. Intenta volver a la página anterior o visita nuestro Centro de ayuda para más información. Ir a tu feed Impossible de trouver cette page Nous ne trouvons pas la page que vous recherchez. Essayez de retourner à la page précédente ou consultez notre assistance clientèle pour plus d’informations Ouvrez votre fil Halaman ini tidak dapat ditemukan Maaf, sepertinya kami tidak dapat menemukan halaman yang Anda cari. Coba kembali ke halaman sebelumnya atau lihat Pusat Bantuan kami untuk informasi lebih lanjut Buka feed Anda Pagina non trovata Non abbiamo trovato la pagina che stai cercando. Prova a tornare alla pagina precedente o visita il nostro Centro assistenza per saperne di più. Vai al tuo feed ページが見つかりませんでした 申し訳ありません。お探しのページが見つかりません。前のページに戻るか、 ヘルプセンター で詳細をご確認ください フィードに移動 페이지 없음 원하시는 페이지를 찾을 수 없습니다. 이전 페이지로 돌아가거나 고객센터 에서 자세히 알아보세요. 홈으로 가기 Laman tidak ditemui Harap maaf, kami tidak dapat menemui laman yang ingin anda cari. Cuba kembali ke laman sebelumnya atau lihat Pusat Bantuan kami untuk maklumat lanjut Pergi ke suapan Pagina niet gevonden De pagina waar u naar op zoek bent, kan niet worden gevonden. Probeer terug te gaan naar de vorige pagina of bezoek het Help Center voor meer informatie Ga naar uw feed Fant ikke siden Vi finner ikke siden du leter etter. Gå tilbake til forrige side eller besøk vår brukerstøtte for mer informasjon Gå til din feed Nie znaleziono strony Nie możemy znaleźć strony, której szukasz. Spróbuj wrócić do poprzedniej strony lub nasze Centrum pomocy , ab",
+      "date_published": null,
+      "date_scraped": "2026-08-25T13:21:09.142069+00:00",
+      "rating": null,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_broad_fallback": true
+      }
+    }
+  ]
+}

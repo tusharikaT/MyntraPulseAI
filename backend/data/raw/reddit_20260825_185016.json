@@ -1,0 +1,1015 @@
+{
+  "scraper": "reddit",
+  "scraped_at": "2026-08-25T13:20:16.989996+00:00",
+  "config_snapshot": {
+    "thread_count": 8,
+    "delay_seconds": 5
+  },
+  "stats": {
+    "total_fetched": 50,
+    "errors": 0,
+    "notes": "Populated with dummy data per user request."
+  },
+  "records": [
+    {
+      "record_id": "0247de3a-98b2-494d-891e-09cc207df156",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Why does Ajio let you see similar items when yours goes out of stock, but Myntra just deletes it from the wishlist? So frustrating.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 419
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Arjun Nair",
+        "is_post": false,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "1c8e6b26-e750-4518-936a-2c118560a3e8",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Quality has been an issue lately. I ordered a jacket from my saved items and it felt completely fake compared to the original brand.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 165
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Anjali Desai",
+        "is_post": false,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "198f3d52-3f6b-41cc-bedc-2e1d9b7b9f38",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Saved a bunch of ethnic wear for Diwali. Half of them lost their discount tags overnight. Not buying from here anymore.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 393
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Aisha Sheikh",
+        "is_post": true,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "406a3fb9-89ab-4786-a12b-4b4d6eed5926",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "I had 10 items in my wishlist for the sale, but when I checked today, 4 of them were randomly out of stock! Myntra really needs to fix this.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 230
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Kabir Bose",
+        "is_post": false,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "b47bbe0e-65a8-43ac-ba05-46698718d927",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Does anyone else feel like the wishlist feature is useless if the sizes always disappear? I wanted that Zara dress so badly.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 182
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Arjun Nair",
+        "is_post": true,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "9f874f19-7a94-4b3c-b7f8-3434fbfdb388",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "My delivery was delayed by a week! Ordered a gift for my sister from my favourites list and it arrived after her birthday.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 139
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Rohan Mehta",
+        "is_post": true,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "9ec31f88-b363-41d4-883e-4f38c9fa25f2",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Why does Ajio let you see similar items when yours goes out of stock, but Myntra just deletes it from the wishlist? So frustrating.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 461
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Pooja Verma",
+        "is_post": true,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "e04ca19c-d1eb-49b0-b17c-89bba8bc7259",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Why does Ajio let you see similar items when yours goes out of stock, but Myntra just deletes it from the wishlist? So frustrating.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 18
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Zara Khan",
+        "is_post": true,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "536d3bf2-52df-45ff-bff2-fcda44e02970",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "I returned a shirt last week because the fit was awful. Now it's still showing in my cart for some reason. The UI is buggy.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 319
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Arjun Nair",
+        "is_post": false,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "18e43f64-67c1-4801-bd51-cd5c8aca65c1",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Does anyone else feel like the wishlist feature is useless if the sizes always disappear? I wanted that Zara dress so badly.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 169
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Tara Menon",
+        "is_post": true,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "5fb3bb42-cfd0-4d7f-a2ca-d38259434301",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Saved a bunch of ethnic wear for Diwali. Half of them lost their discount tags overnight. Not buying from here anymore.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 184
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Pooja Verma",
+        "is_post": false,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "ac78f2ca-ed36-4642-ad32-bfce5b7c3557",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Does anyone else feel like the wishlist feature is useless if the sizes always disappear? I wanted that Zara dress so badly.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 225
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Rahul Sharma",
+        "is_post": false,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "a6b9e734-126f-4105-9b17-7937d19b28fd",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Why does Ajio let you see similar items when yours goes out of stock, but Myntra just deletes it from the wishlist? So frustrating.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 329
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Riya Kapoor",
+        "is_post": true,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "432f502a-8ebd-46c6-8d43-c1d3a592d212",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Saved a bunch of ethnic wear for Diwali. Half of them lost their discount tags overnight. Not buying from here anymore.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 121
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Kabir Bose",
+        "is_post": true,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "d7cd2d47-5189-4273-bd89-3e435e1ca838",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Saved a bunch of ethnic wear for Diwali. Half of them lost their discount tags overnight. Not buying from here anymore.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 30
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Amit Kumar",
+        "is_post": true,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "9a666b2b-3cbb-41bb-83e4-621cc52fecf1",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "I didn't buy those sneakers because they were too expensive. I kept them saved to see if a sale would happen, but they just vanished.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 8
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Zara Khan",
+        "is_post": true,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "0b534425-a2a5-45c9-8ae7-86f9c6a44859",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Does anyone else feel like the wishlist feature is useless if the sizes always disappear? I wanted that Zara dress so badly.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 487
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Anjali Desai",
+        "is_post": true,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "88667911-9389-4d9b-9f47-eb994c7f1980",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Saved a bunch of ethnic wear for Diwali. Half of them lost their discount tags overnight. Not buying from here anymore.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 498
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Aisha Sheikh",
+        "is_post": true,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "8d35a556-5dc3-4c62-8b79-64ce2e527afe",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Quality has been an issue lately. I ordered a jacket from my saved items and it felt completely fake compared to the original brand.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 8
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Siddharth Das",
+        "is_post": true,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "7a46a100-9afa-48ab-b7ae-1299615e6621",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "I didn't buy those sneakers because they were too expensive. I kept them saved to see if a sale would happen, but they just vanished.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 135
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Tara Menon",
+        "is_post": false,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "44ef721a-051a-4b80-8972-7b2312ba3d04",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Quality has been an issue lately. I ordered a jacket from my saved items and it felt completely fake compared to the original brand.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 391
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Neha Gupta",
+        "is_post": false,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "ac2b667e-9011-431c-a805-b2f47a5f3aca",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "I had 10 items in my wishlist for the sale, but when I checked today, 4 of them were randomly out of stock! Myntra really needs to fix this.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 36
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Siddharth Das",
+        "is_post": false,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "3ecc1cf5-d258-45f0-94ab-7091873a0bb6",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Quality has been an issue lately. I ordered a jacket from my saved items and it felt completely fake compared to the original brand.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 127
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Rohan Mehta",
+        "is_post": false,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "25ee78df-844d-4831-9af3-e27dd2b82b7b",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Saved a bunch of ethnic wear for Diwali. Half of them lost their discount tags overnight. Not buying from here anymore.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 250
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Aryan Ali",
+        "is_post": false,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "09ac1aca-f455-426a-a9d7-e7724ce2fe47",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "I didn't buy those sneakers because they were too expensive. I kept them saved to see if a sale would happen, but they just vanished.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 6
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Zara Khan",
+        "is_post": true,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "cfeb4e1c-dff5-4884-a27c-b6461ea00f92",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "I had 10 items in my wishlist for the sale, but when I checked today, 4 of them were randomly out of stock! Myntra really needs to fix this.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 98
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Vikram Singh",
+        "is_post": true,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "38ae6792-b2ed-4e90-b3f7-3c98ac2145d8",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Quality has been an issue lately. I ordered a jacket from my saved items and it felt completely fake compared to the original brand.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 113
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Neha Gupta",
+        "is_post": true,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "d0b83a9b-86c0-46a2-88b4-1b577718e591",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Quality has been an issue lately. I ordered a jacket from my saved items and it felt completely fake compared to the original brand.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 484
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Karan Malhotra",
+        "is_post": true,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "8280c09a-6bb5-404b-82c8-a7bde2c46c88",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Is it just me or does the wishlist limit how many items you can save? I hit a cap the other day.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 42
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Riya Kapoor",
+        "is_post": false,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "2cdcaddd-5743-4bdf-8f7c-ac3e52beffdb",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Does anyone else feel like the wishlist feature is useless if the sizes always disappear? I wanted that Zara dress so badly.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 261
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Neha Gupta",
+        "is_post": true,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "d0cdb1b1-247a-4ae8-a29c-5f348dd9f873",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Does anyone else feel like the wishlist feature is useless if the sizes always disappear? I wanted that Zara dress so badly.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 132
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Rohan Mehta",
+        "is_post": false,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "eece368b-8ede-4f77-855f-417e1169b9ea",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "I returned a shirt last week because the fit was awful. Now it's still showing in my cart for some reason. The UI is buggy.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 491
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Vikram Singh",
+        "is_post": true,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "85a431c5-e367-456b-ad20-4814bd07b1eb",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "I had 10 items in my wishlist for the sale, but when I checked today, 4 of them were randomly out of stock! Myntra really needs to fix this.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 185
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Riya Kapoor",
+        "is_post": false,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "c3e3a96f-4f58-40b3-a245-faef016a9dbf",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Wishlist collections are a mess on the app. Can't even sort them properly by price drop.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 85
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Zara Khan",
+        "is_post": true,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "22e10b1b-85b6-4ed7-95ce-ceaf45271a7e",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "I returned a shirt last week because the fit was awful. Now it's still showing in my cart for some reason. The UI is buggy.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 89
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Arjun Nair",
+        "is_post": false,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "17e2c8f2-ea76-45d4-9ac7-b33a9cc06559",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Saved a bunch of ethnic wear for Diwali. Half of them lost their discount tags overnight. Not buying from here anymore.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 184
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Karan Malhotra",
+        "is_post": false,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "0cdcbf2e-0554-4814-bd47-99d81f1f6874",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "I didn't buy those sneakers because they were too expensive. I kept them saved to see if a sale would happen, but they just vanished.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 181
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Neha Gupta",
+        "is_post": false,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "95f9cb98-a28a-4cdf-a39d-7c11daa1c390",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "My delivery was delayed by a week! Ordered a gift for my sister from my favourites list and it arrived after her birthday.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 120
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Zara Khan",
+        "is_post": true,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "ca60c732-986d-43f3-8b2d-25f503755554",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Saved a bunch of ethnic wear for Diwali. Half of them lost their discount tags overnight. Not buying from here anymore.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 438
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Rahul Sharma",
+        "is_post": true,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "d7ef6c47-3464-4c75-bc4c-59fdc34a8865",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Does anyone else feel like the wishlist feature is useless if the sizes always disappear? I wanted that Zara dress so badly.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 170
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Arjun Nair",
+        "is_post": true,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "b926a714-f487-4035-95cb-eb0ce95819dc",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Why does Ajio let you see similar items when yours goes out of stock, but Myntra just deletes it from the wishlist? So frustrating.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 112
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Aryan Ali",
+        "is_post": false,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "f3e06902-0a15-400f-bced-53d7e42ae203",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "I had 10 items in my wishlist for the sale, but when I checked today, 4 of them were randomly out of stock! Myntra really needs to fix this.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 289
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Aditya Joshi",
+        "is_post": true,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "8d06e064-058f-427c-8eed-4499207820a0",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "My delivery was delayed by a week! Ordered a gift for my sister from my favourites list and it arrived after her birthday.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 328
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Vikram Singh",
+        "is_post": false,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "a6c8cfb3-2caf-4e8a-8455-58513882ccb4",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "I had 10 items in my wishlist for the sale, but when I checked today, 4 of them were randomly out of stock! Myntra really needs to fix this.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 182
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Sneha Reddy",
+        "is_post": true,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "2b5cd521-1d56-4435-bbaf-b0216874aa6b",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "I returned a shirt last week because the fit was awful. Now it's still showing in my cart for some reason. The UI is buggy.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 107
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Arjun Nair",
+        "is_post": false,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "9d46b06d-0699-4f19-8f48-c7d898711dd9",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Saved a bunch of ethnic wear for Diwali. Half of them lost their discount tags overnight. Not buying from here anymore.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 365
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Anjali Desai",
+        "is_post": false,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "228c558b-5c0f-49f9-afbc-5c53d3935c77",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "I had 10 items in my wishlist for the sale, but when I checked today, 4 of them were randomly out of stock! Myntra really needs to fix this.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 165
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Tara Menon",
+        "is_post": true,
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "7bff5cc1-489a-49dd-bc05-75a15dd678b7",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Saved a bunch of ethnic wear for Diwali. Half of them lost their discount tags overnight. Not buying from here anymore.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 447
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Karan Malhotra",
+        "is_post": false,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "05c15d9f-aa55-4054-867f-889bebde6026",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "I had 10 items in my wishlist for the sale, but when I checked today, 4 of them were randomly out of stock! Myntra really needs to fix this.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 122
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Riya Kapoor",
+        "is_post": true,
+        "depth": 0
+      }
+    },
+    {
+      "record_id": "793ab857-9101-4fe6-8892-c673c9d2b67c",
+      "source_type": "reddit",
+      "platform": "Reddit",
+      "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+      "raw_text": "Is it just me or does the wishlist limit how many items you can save? I hit a cap the other day.",
+      "date_published": "2026-08-26T04:54:59.079855+00:00",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "upvotes": 195
+      },
+      "language": "en",
+      "metadata": {
+        "subreddit": "r/IndianFashionAddicts",
+        "author": "Anjali Desai",
+        "is_post": true,
+        "depth": 0
+      }
+    }
+  ]
+}

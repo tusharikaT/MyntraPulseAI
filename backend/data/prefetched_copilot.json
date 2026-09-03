@@ -1,0 +1,632 @@
+{
+  "Why do users add fashion products to their wishlist?": {
+    "answer": "Based on the provided records, users add fashion products to their wishlist primarily for **future purchase consideration** and **comparison purposes**.\n\n**1. Saving for Later Purchase**\nUsers utilize the wishlist to save items they intend to buy in the future but are not ready to purchase immediately.\n*   **Evidence:** A user story describes a shopper who \"wanted to save them for later\" while looking for shoes [Record 1].\n*   **Evidence:** Another user expresses a strong desire for a specific item, stating, \"I wanted that Zara dress so badly,\" indicating the wishlist serves as a holding place for high-intent items [Record 2].\n\n**2. Comparison and Decision Making**\nUsers add multiple similar items to the wishlist to compare them and decide which one is best.\n*   **Evidence:** Users report saving multiple variations of the same product type to evaluate options, noting, \"I have 5 different black dresses saved. I can't decide which one is best\" [Record 3] [Record 4].\n*   **Evidence:** The wishlist is also used as a baseline for cross-platform price comparison, with users noting they \"Wishlisted here, but checking Amazon to see if it's cheaper there\" [Record 5].\n\n**Note on Barriers:**\nWhile the intent is to save and compare, the records indicate that this process is often hindered by **Wishlist UX** issues (confusing buttons, clutter) and **Availability** issues (sizes disappearing), which may prevent the wishlist from effectively converting to purchase [Record 1] [Record 2] [Record 3] [Record 4] [Record 5].",
+    "sources": [
+      {
+        "record_id": "e8298a18-2fe2-4a5b-843b-f3daa660544f",
+        "quote": "User Feedback (Source: web_article): Myntra Wishlist Makeover \u2014 A UX-Enhancement Journey Manvinder Jaret 6 min read \u00b7 Jun 26, 2024 -- Listen Share Pro...",
+        "original_url": "https://jarettttt.medium.com/myntra-wishlist-makeover-a-ux-enhancement-journey-7fbd1af4f7f8",
+        "platform": "unknown",
+        "source_type": "web_article",
+        "rating": null
+      },
+      {
+        "record_id": "2cdcaddd-5743-4bdf-8f7c-ac3e52beffdb",
+        "quote": "User Feedback (Source: reddit): Does anyone else feel like the wishlist feature is useless if the sizes always disappear? I wanted that Zara dress so ...",
+        "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      },
+      {
+        "record_id": "51c4d100-e661-4b54-9e58-81077d12a107",
+        "quote": "User Feedback (Source: reddit): I have 5 different black dresses saved. I can't decide which one is best. The wishlist is too cluttered.\nContext: The ...",
+        "original_url": "https://synthetic.data/reddit/cf708a56-5fbc-48cf-8787-2cf19ab20b69",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      },
+      {
+        "record_id": "84069c79-6891-4bd2-9f2d-0954f94b2394",
+        "quote": "User Feedback (Source: reddit): I have 5 different black dresses saved. I can't decide which one is best. The wishlist is too cluttered.\nContext: The ...",
+        "original_url": "https://synthetic.data/reddit/67bc8340-c30b-4b57-8e3f-2c369ec57e42",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      },
+      {
+        "record_id": "37004e46-722d-4937-a07a-cbf4d17ce9d5",
+        "quote": "User Feedback (Source: reddit): Wishlisted here, but checking Amazon to see if it's cheaper there. Sigh.\nContext: The user is in the 'Product evaluati...",
+        "original_url": "https://synthetic.data/reddit/7f469ffa-6690-4d03-8ecc-8046449a49cf",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      }
+    ],
+    "dataset_summary": {
+      "total_records": 1088,
+      "source_mix": {
+        "app_store": 283,
+        "play_store": 111,
+        "product_review": 35,
+        "product_reviews": 92,
+        "reddit": 283,
+        "seed_urls": 94,
+        "web_article": 1,
+        "youtube": 189
+      }
+    },
+    "suggested_followups": [
+      "What are the top barriers to conversion?",
+      "Are there differences between iOS and Android users?",
+      "How does price uncertainty impact the wishlist?"
+    ]
+  },
+  "What prevents wishlisted products from eventually being purchased?": {
+    "answer": "Based on the provided records, the primary barriers preventing wishlisted products from being purchased are **Availability** and **Price Comparison**.\n\n**1. Availability and Stock Management**\nUsers report that items in their wishlist become unavailable or are removed without alternative options, breaking the purchase intent.\n*   Users note: \"I had 10 items in my wishlist for the sale, but when I checked today, 4 of them were randomly out of stock!\" [Record 1].\n*   Users express frustration regarding the lack of alternatives compared to competitors: \"Why does Ajio let you see similar items when yours goes out of stock, but Myntra just deletes it from the wishlist? So frustrating.\" [Record 2] and [Record 3].\n\n**2. Price Comparison and Competitor Leakage**\nUsers actively compare prices on other platforms (specifically Amazon) after adding items to the Myntra wishlist, indicating that price competitiveness is a barrier to final conversion.\n*   Users state: \"Wishlisted here, but checking Amazon to see if it's cheaper there. Please fix this.\" [Record 4] and [Record 5].\n\n**Summary of Friction Groupings:**\n*   **Availability:** Random out-of-stock status and deletion of items from the wishlist without suggesting similar products.\n*   **Price/Comparison:** Users leaving to check competitor prices (Amazon) before purchasing.",
+    "sources": [
+      {
+        "record_id": "cfeb4e1c-dff5-4884-a27c-b6461ea00f92",
+        "quote": "User Feedback (Source: reddit): I had 10 items in my wishlist for the sale, but when I checked today, 4 of them were randomly out of stock! Myntra rea...",
+        "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      },
+      {
+        "record_id": "9ec31f88-b363-41d4-883e-4f38c9fa25f2",
+        "quote": "User Feedback (Source: reddit): Why does Ajio let you see similar items when yours goes out of stock, but Myntra just deletes it from the wishlist? So...",
+        "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      },
+      {
+        "record_id": "b926a714-f487-4035-95cb-eb0ce95819dc",
+        "quote": "User Feedback (Source: reddit): Why does Ajio let you see similar items when yours goes out of stock, but Myntra just deletes it from the wishlist? So...",
+        "original_url": "https://old.reddit.com/r/IndianFashionAddicts/dummy",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      },
+      {
+        "record_id": "82adccd3-d83e-4755-aead-2d02259653aa",
+        "quote": "User Feedback (Source: reddit): Wishlisted here, but checking Amazon to see if it's cheaper there. Please fix this.\nContext: The user is in the 'Produ...",
+        "original_url": "https://synthetic.data/reddit/5fab73f4-4c4c-46bf-b86c-c0e11fd71497",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      },
+      {
+        "record_id": "6e7f56ae-853a-4e69-97f5-4321a9238416",
+        "quote": "User Feedback (Source: reddit): Wishlisted here, but checking Amazon to see if it's cheaper there. Please fix this.\nContext: The user is in the 'Produ...",
+        "original_url": "https://synthetic.data/reddit/c016218e-9f4b-48cc-91a9-cf692ea57210",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      }
+    ],
+    "dataset_summary": {
+      "total_records": 1088,
+      "source_mix": {
+        "app_store": 283,
+        "play_store": 111,
+        "product_review": 35,
+        "product_reviews": 92,
+        "reddit": 283,
+        "seed_urls": 94,
+        "web_article": 1,
+        "youtube": 189
+      }
+    },
+    "suggested_followups": [
+      "What are the top barriers to conversion?",
+      "Are there differences between iOS and Android users?",
+      "How does price uncertainty impact the wishlist?"
+    ]
+  },
+  "What uncertainties remain after users have identified a product they like?": {
+    "answer": "Based on the provided records, the primary uncertainty remaining after users identify a product they like relates to **Quality & Material** and **Information Gaps**.\n\nSpecifically, users express an inability to assess the tactile properties of the product through visual media alone.\n\n*   **Tactile Uncertainty:** Users note: \"I can't tell what the fabric feels like\" [Record 1].\n*   **Reliance on External Validation:** Due to this gap, users delay purchase to seek third-party verification, stating: \"Wishlisted it until I find a YouTube review\" [Record 2].\n\nThis pattern is consistent across all provided records, indicating that visual appeal (\"The pictures look nice\") is insufficient to overcome the barrier of not knowing the material quality [Record 3].",
+    "sources": [
+      {
+        "record_id": "90b77604-88cd-446c-b393-3ebb328a6692",
+        "quote": "User Feedback (Source: app_store): The pictures look nice but I can't tell what the fabric feels like. Wishlisted it until I find a YouTube review.\nCo...",
+        "original_url": "https://synthetic.data/app_store/dd66899d-900b-4eb7-99f8-df1933b56ebe",
+        "platform": "unknown",
+        "source_type": "app_store",
+        "rating": null
+      },
+      {
+        "record_id": "b60f7539-a041-4a33-976c-f1c112aec599",
+        "quote": "User Feedback (Source: product_reviews): The pictures look nice but I can't tell what the fabric feels like. Wishlisted it until I find a YouTube revi...",
+        "original_url": "https://synthetic.data/product_reviews/6ae614bd-8c54-474c-82ec-c37aa829e4e4",
+        "platform": "unknown",
+        "source_type": "product_reviews",
+        "rating": null
+      },
+      {
+        "record_id": "9678d5af-8d73-42c5-b86d-b44962664c71",
+        "quote": "User Feedback (Source: product_reviews): The pictures look nice but I can't tell what the fabric feels like. Wishlisted it until I find a YouTube revi...",
+        "original_url": "https://synthetic.data/product_reviews/8d5c5bd4-9336-472e-ad7d-7681ef07cd83",
+        "platform": "unknown",
+        "source_type": "product_reviews",
+        "rating": null
+      },
+      {
+        "record_id": "4c7d73d2-76f7-4e22-b7aa-f86d4e4080e5",
+        "quote": "User Feedback (Source: youtube): The pictures look nice but I can't tell what the fabric feels like. Wishlisted it until I find a YouTube review.\nCont...",
+        "original_url": "https://synthetic.data/youtube/9af7c7e8-d9ae-471a-9c26-4f3bebfa4296",
+        "platform": "unknown",
+        "source_type": "youtube",
+        "rating": null
+      },
+      {
+        "record_id": "46bc70b3-d25c-4ba0-b973-b7ea0329f332",
+        "quote": "User Feedback (Source: youtube): The pictures look nice but I can't tell what the fabric feels like. Wishlisted it until I find a YouTube review.\nCont...",
+        "original_url": "https://synthetic.data/youtube/7f56d051-a8db-4e4a-858c-6c49273fcbd1",
+        "platform": "unknown",
+        "source_type": "youtube",
+        "rating": null
+      }
+    ],
+    "dataset_summary": {
+      "total_records": 1088,
+      "source_mix": {
+        "app_store": 283,
+        "play_store": 111,
+        "product_review": 35,
+        "product_reviews": 92,
+        "reddit": 283,
+        "seed_urls": 94,
+        "web_article": 1,
+        "youtube": 189
+      }
+    },
+    "suggested_followups": [
+      "What are the top barriers to conversion?",
+      "Are there differences between iOS and Android users?",
+      "How does price uncertainty impact the wishlist?"
+    ]
+  },
+  "What causes users to postpone a purchase?": {
+    "answer": "Based on the provided records, the primary cause for users postponing or failing to complete a purchase is **product unavailability** (specifically, items being out of stock after being saved to a wishlist).\n\n**Evidence:**\n*   **Availability:** Users report that items saved to their wishlist become unavailable at the point of purchase. As stated in the context: \"I saved like 5 of these items to my wishlist and they were all out of stock when I tried to buy\" [Record 3].\n\n**Note on Other Records:**\nThe other records provided (Records 1, 2, 4, and 5) describe **post-purchase** issues such as delivery delays, damaged goods, incorrect delivery status, and unauthorized cancellations. While these represent significant friction points, they occur *after* the purchase has been made and paid for, rather than causing the user to postpone the initial purchase decision. Therefore, based strictly on the provided text, only Record 3 directly addresses the barrier to completing a purchase.",
+    "sources": [
+      {
+        "record_id": "fc770249-23b5-41b3-b504-dcd64ff498ec",
+        "quote": "User Feedback (Source: play_store): I ordered a watch using a coupon and got a discount, but my order has been delayed. I\u2019ve noticed this happening re...",
+        "original_url": "https://play.google.com/store/apps/details?id=com.myntra.android&hl=en&gl=in",
+        "platform": "unknown",
+        "source_type": "play_store",
+        "rating": null
+      },
+      {
+        "record_id": "b297dfc2-ed90-487a-84cb-501ba49318e9",
+        "quote": "User Feedback (Source: play_store): After I received the replacement product, I requested a return the very same day because it arrived damaged. The r...",
+        "original_url": "https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en&gl=in",
+        "platform": "unknown",
+        "source_type": "play_store",
+        "rating": null
+      },
+      {
+        "record_id": "2fc98f50-9d82-4e55-9404-da21857b0c59",
+        "quote": "User Feedback (Source: youtube): Great haul! But honestly, I saved like 5 of these items to my wishlist and they were all out of stock when I tried to...",
+        "original_url": "https://www.youtube.com/watch?v=dummy",
+        "platform": "unknown",
+        "source_type": "youtube",
+        "rating": null
+      },
+      {
+        "record_id": "002a09bf-027f-4c86-92cb-8deabc8d70d3",
+        "quote": "User Feedback (Source: play_store): This is the fourth time I have faced the same issue with Amazon. I prepaid for the order, but the product was not ...",
+        "original_url": "https://play.google.com/store/apps/details?id=in.amazon.mShop.android.shopping&hl=en&gl=in",
+        "platform": "unknown",
+        "source_type": "play_store",
+        "rating": null
+      },
+      {
+        "record_id": "bb7722b3-ed7f-4cd1-a478-c444dd78a5c3",
+        "quote": "User Feedback (Source: play_store): I did not request cancellation of an order. The tracking says a cancellation request was initiated because deliver...",
+        "original_url": "https://play.google.com/store/apps/details?id=com.meesho.supply&hl=en&gl=in",
+        "platform": "unknown",
+        "source_type": "play_store",
+        "rating": null
+      }
+    ],
+    "dataset_summary": {
+      "total_records": 1088,
+      "source_mix": {
+        "app_store": 283,
+        "play_store": 111,
+        "product_review": 35,
+        "product_reviews": 92,
+        "reddit": 283,
+        "seed_urls": 94,
+        "web_article": 1,
+        "youtube": 189
+      }
+    },
+    "suggested_followups": [
+      "What are the top barriers to conversion?",
+      "Are there differences between iOS and Android users?",
+      "How does price uncertainty impact the wishlist?"
+    ]
+  },
+  "How do users compare multiple shortlisted products?": {
+    "answer": "Based on the provided records, users attempt to compare shortlisted products by cross-referencing them with similar items on competing platforms, specifically Ajio. However, this process is hindered by significant friction in the current interface.\n\n**Comparison Friction & UX Barriers**\nUsers explicitly state that the current mechanism makes it difficult to evaluate price differences across different applications.\n*   Users note: \"Hard to compare prices easily across apps.\" [Record 1]\n*   Users note: \"Hard to compare prices easily across apps.\" [Record 2]\n*   Users note: \"Hard to compare prices easily across apps.\" [Record 3]\n*   Users note: \"Hard to compare prices easily across apps.\" [Record 4]\n*   Users note: \"Hard to compare prices easily across apps.\" [Record 5]\n\n**User Sentiment**\nThe inability to facilitate this comparison leads to confusion and direct requests for product improvement.\n*   Users express frustration: \"So confusing.\" [Record 5]\n*   Users issue direct calls to action: \"Please fix this.\" [Record 3]\n*   Users issue direct calls to action: \"Please fix this.\" [Record 4]\n\n**Conclusion**\nThe primary method of comparison is manual cross-app checking (Myntra vs. Ajio), but the \"Wishlist UX\" and \"Comparison difficulty\" barriers prevent users from easily executing this intent.",
+    "sources": [
+      {
+        "record_id": "5057c8ff-da20-4f1d-98c3-010b56023a06",
+        "quote": "User Feedback (Source: reddit): Comparing this with a similar top on Ajio. Hard to compare prices easily across apps.\nContext: The user is in the 'Pro...",
+        "original_url": "https://synthetic.data/reddit/841eb9db-0284-44f0-baaa-4e279dd05dc0",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      },
+      {
+        "record_id": "a24c6211-007c-44b8-895e-fe59ae54e431",
+        "quote": "User Feedback (Source: reddit): Comparing this with a similar top on Ajio. Hard to compare prices easily across apps.\nContext: The user is in the 'Pro...",
+        "original_url": "https://synthetic.data/reddit/05ca6a7b-13f6-43c8-902c-6acf64a6e16a",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      },
+      {
+        "record_id": "3b0ade55-167f-4071-9b3b-126add488930",
+        "quote": "User Feedback (Source: reddit): Comparing this with a similar top on Ajio. Hard to compare prices easily across apps. Please fix this.\nContext: The us...",
+        "original_url": "https://synthetic.data/reddit/bfbaa0e3-9e5a-4f21-ac06-926186bbdc1b",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      },
+      {
+        "record_id": "4c521800-e49e-4101-ac20-3017f00e83c4",
+        "quote": "User Feedback (Source: reddit): Comparing this with a similar top on Ajio. Hard to compare prices easily across apps. Please fix this.\nContext: The us...",
+        "original_url": "https://synthetic.data/reddit/975d5707-d5db-4640-b48e-a0c73fa71d7c",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      },
+      {
+        "record_id": "a6bd6d72-90ab-49d5-8883-e0955bbd7a05",
+        "quote": "User Feedback (Source: reddit): Comparing this with a similar top on Ajio. Hard to compare prices easily across apps. So confusing.\nContext: The user ...",
+        "original_url": "https://synthetic.data/reddit/4eb7cc43-b6a0-4b3d-9c4e-ec5e9345db8b",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      }
+    ],
+    "dataset_summary": {
+      "total_records": 1088,
+      "source_mix": {
+        "app_store": 283,
+        "play_store": 111,
+        "product_review": 35,
+        "product_reviews": 92,
+        "reddit": 283,
+        "seed_urls": 94,
+        "web_article": 1,
+        "youtube": 189
+      }
+    },
+    "suggested_followups": [
+      "What are the top barriers to conversion?",
+      "Are there differences between iOS and Android users?",
+      "How does price uncertainty impact the wishlist?"
+    ]
+  },
+  "What information do users seek outside Myntra/AJIO before purchasing?": {
+    "answer": "I don't have enough data to answer that based on the current records.",
+    "sources": [
+      {
+        "record_id": "34984786-f50c-464f-b551-ffed95f628fa",
+        "quote": "User Feedback (Source: app_store): Great shopping app Everything I ordered from myntra has good quality and at best price\nContext: The user is in the ...",
+        "original_url": "https://apps.apple.com/in/app/id907394059",
+        "platform": "unknown",
+        "source_type": "app_store",
+        "rating": null
+      },
+      {
+        "record_id": "7358ca36-cae2-4eca-92a7-f573ef984564",
+        "quote": "User Feedback (Source: play_store): \u2b50\u2b50\u2b50\u2b50\u2b50 I've been using Myntra for a long time, and my experience has been amazing. The app is easy to use, offers a...",
+        "original_url": "https://play.google.com/store/apps/details?id=com.myntra.android&hl=en&gl=in",
+        "platform": "unknown",
+        "source_type": "play_store",
+        "rating": null
+      },
+      {
+        "record_id": "1fd6d2aa-12c7-43df-be87-36c5356142eb",
+        "quote": "User Feedback (Source: play_store): Absolutely love shopping on Myntra! The app is super smooth, easy to navigate, and offers a huge collection of aut...",
+        "original_url": "https://play.google.com/store/apps/details?id=com.myntra.android&hl=en&gl=in",
+        "platform": "unknown",
+        "source_type": "play_store",
+        "rating": null
+      },
+      {
+        "record_id": "04c9fb63-bb67-4cef-8fc5-53ece477b29d",
+        "quote": "User Feedback (Source: app_store): Great options and delivery I always shop on Myntra. Great collection and on time delivery Return is also easy.\nCont...",
+        "original_url": "https://apps.apple.com/us/app/id907394059",
+        "platform": "unknown",
+        "source_type": "app_store",
+        "rating": null
+      },
+      {
+        "record_id": "a11fdffa-815a-4787-aa29-83641a580f71",
+        "quote": "User Feedback (Source: play_store): Great shopping experience with Myntra! I\u2019m really happy with my purchase. The product quality was excellent, exact...",
+        "original_url": "https://play.google.com/store/apps/details?id=com.myntra.android&hl=en&gl=in",
+        "platform": "unknown",
+        "source_type": "play_store",
+        "rating": null
+      }
+    ],
+    "dataset_summary": {
+      "total_records": 1088,
+      "source_mix": {
+        "app_store": 283,
+        "play_store": 111,
+        "product_review": 35,
+        "product_reviews": 92,
+        "reddit": 283,
+        "seed_urls": 94,
+        "web_article": 1,
+        "youtube": 189
+      }
+    },
+    "suggested_followups": [
+      "What are the top barriers to conversion?",
+      "Are there differences between iOS and Android users?",
+      "How does price uncertainty impact the wishlist?"
+    ]
+  },
+  "What role do fit, size, styling, price, reviews, occasion and social validation play?": {
+    "answer": "Based on the provided records, the data supports analysis for **Fit & Sizing** and **Social Validation**. There is no data in the current records regarding Price, Quality, Comparison, or specific Occasion details.\n\n### 1. Fit & Sizing\nThis is the dominant barrier identified in the dataset, appearing in all five records. Users explicitly cite confusion regarding size charts and uncertainty about how the garment will fit as the primary reason for hesitation.\n\n*   **Confusing Size Charts:** Multiple users report that the size chart is not intuitive.\n    *   \"The size chart is confusing.\" [Record 2]\n    *   \"The size chart is confusing.\" [Record 3]\n    *   \"The size chart is confusing.\" [Record 4]\n    *   \"The size chart is confusing.\" [Record 5]\n*   **Uncertainty Leading to Hesitation:** Users express a desire to buy but are blocked by fit uncertainty.\n    *   \"I want to buy these jeans but I'm unsure about the fit.\" [Record 2]\n    *   \"I didn't buy the jacket because I wasn't sure about the fit...\" [Record 1]\n\n### 2. Social Validation\nSocial proof, specifically through video content, acts as a mitigating factor for fit-related anxiety.\n\n*   **Video Content as Trust Builder:** One user indicates that external validation via a video review resolved their fit concerns, directly influencing their purchase decision.\n    *   \"...your video convinced me.\" [Record 1]\n\n### 3. Price, Quality, Comparison, and Occasion\n*   **Price:** No records mention price as a barrier or factor.\n*   **Quality:** No records mention material quality or durability.\n*   **Comparison:** No records mention comparing products against competitors or alternatives.\n*   **Occasion:** While \"jeans\" and \"jacket\" are mentioned, no specific occasion (e.g., \"for work,\" \"for a date\") is cited as a decision factor.\n\n**Conclusion:** The primary friction point is **Fit & Sizing**, driven by confusing size charts. **Social Validation** (video reviews) is identified as a successful intervention that can overcome this specific barrier.",
+    "sources": [
+      {
+        "record_id": "6a37ef27-1073-4b57-a1ea-0dfa2352c3d9",
+        "quote": "User Feedback (Source: youtube): So helpful! I didn't buy the jacket because I wasn't sure about the fit, but your video convinced me.\nContext: The us...",
+        "original_url": "https://www.youtube.com/watch?v=dummy",
+        "platform": "unknown",
+        "source_type": "youtube",
+        "rating": null
+      },
+      {
+        "record_id": "20e2d60d-40c9-44e4-bc82-b1e2db6eacf6",
+        "quote": "User Feedback (Source: reddit): I want to buy these jeans but I'm unsure about the fit. The size chart is confusing. Sigh.\nContext: The user is in the...",
+        "original_url": "https://synthetic.data/reddit/0e6b06ad-9ed6-42a7-89a9-473e621a93e4",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      },
+      {
+        "record_id": "d975d95b-1a60-409b-97e3-9b1328b42b3f",
+        "quote": "User Feedback (Source: reddit): I want to buy these jeans but I'm unsure about the fit. The size chart is confusing. Sigh.\nContext: The user is in the...",
+        "original_url": "https://synthetic.data/reddit/076f9a84-c749-4d2c-bb55-c5dbe63ec530",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      },
+      {
+        "record_id": "0b4cb79d-7be5-4b2c-8e27-ee6372ad48c6",
+        "quote": "User Feedback (Source: reddit): I want to buy these jeans but I'm unsure about the fit. The size chart is confusing. Sigh.\nContext: The user is in the...",
+        "original_url": "https://synthetic.data/reddit/317c728a-7bed-4f7a-83a7-86ed287ec454",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      },
+      {
+        "record_id": "3b3d31fb-abe8-4d55-b2df-0e47577f2b19",
+        "quote": "User Feedback (Source: reddit): I want to buy these jeans but I'm unsure about the fit. The size chart is confusing. Sigh.\nContext: The user is in the...",
+        "original_url": "https://synthetic.data/reddit/aea28896-725c-4062-87d2-3982ae8b12c2",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      }
+    ],
+    "dataset_summary": {
+      "total_records": 1088,
+      "source_mix": {
+        "app_store": 283,
+        "play_store": 111,
+        "product_review": 35,
+        "product_reviews": 92,
+        "reddit": 283,
+        "seed_urls": 94,
+        "web_article": 1,
+        "youtube": 189
+      }
+    },
+    "suggested_followups": [
+      "What are the top barriers to conversion?",
+      "Are there differences between iOS and Android users?",
+      "How does price uncertainty impact the wishlist?"
+    ]
+  },
+  "When do users use the wishlist as genuine purchase intent versus simply as a bookmarking mechanism?": {
+    "answer": "Based on the provided records, I don't have enough data to answer that based on the current records.\n\nThe available data only indicates that users are using the wishlist as a starting point for **price comparison** with external platforms (Amazon), rather than providing insight into whether the wishlist represents genuine purchase intent or merely a bookmarking mechanism.\n\nAll five records describe the same behavior:\n*   \"Wishlisted here, but checking Amazon to see if it's cheaper there.\" [Record 1, Record 2, Record 3]\n*   \"Wishlisted here, but checking Amazon to see if it's cheaper there. So confusing.\" [Record 4, Record 5]\n\nThe context explicitly categorizes the primary intent as **'comparison'** and the key barriers as **\"Wishlist UX\"** and **\"Comparison difficulty\"**. There is no data distinguishing between users who intend to buy on Myntra if the price is right versus those who are only using the wishlist to track items for cross-platform price checking.",
+    "sources": [
+      {
+        "record_id": "a29d0e58-18e6-43f6-a0fd-2cd99544949a",
+        "quote": "User Feedback (Source: app_store): Wishlisted here, but checking Amazon to see if it's cheaper there. Sigh.\nContext: The user is in the 'Product evalu...",
+        "original_url": "https://synthetic.data/app_store/0ca3dac3-3ceb-4882-8796-65c32a826546",
+        "platform": "unknown",
+        "source_type": "app_store",
+        "rating": null
+      },
+      {
+        "record_id": "c3f0d9ea-518a-4ca2-802f-868e408ab288",
+        "quote": "User Feedback (Source: app_store): Wishlisted here, but checking Amazon to see if it's cheaper there. Sigh.\nContext: The user is in the 'Product evalu...",
+        "original_url": "https://synthetic.data/app_store/30f1fcd7-328d-49dc-b7a2-76846aaebbd4",
+        "platform": "unknown",
+        "source_type": "app_store",
+        "rating": null
+      },
+      {
+        "record_id": "0f1bcd74-704c-40c8-9418-3175a2f39acf",
+        "quote": "User Feedback (Source: app_store): Wishlisted here, but checking Amazon to see if it's cheaper there. Sigh.\nContext: The user is in the 'Product evalu...",
+        "original_url": "https://synthetic.data/app_store/36c09c1a-706e-406b-8d22-88d3ef9781e9",
+        "platform": "unknown",
+        "source_type": "app_store",
+        "rating": null
+      },
+      {
+        "record_id": "022c7f8c-d0e4-4bee-bad8-f0c3a9f0937e",
+        "quote": "User Feedback (Source: app_store): Wishlisted here, but checking Amazon to see if it's cheaper there. So confusing.\nContext: The user is in the 'Produ...",
+        "original_url": "https://synthetic.data/app_store/04898866-7f1f-4148-bcb1-9d4d2017bab7",
+        "platform": "unknown",
+        "source_type": "app_store",
+        "rating": null
+      },
+      {
+        "record_id": "aaaea967-3dd0-4bb8-b656-06e8b7d93c81",
+        "quote": "User Feedback (Source: app_store): Wishlisted here, but checking Amazon to see if it's cheaper there. So confusing.\nContext: The user is in the 'Produ...",
+        "original_url": "https://synthetic.data/app_store/30d09879-2c59-4988-bbef-817e5e55a7ed",
+        "platform": "unknown",
+        "source_type": "app_store",
+        "rating": null
+      }
+    ],
+    "dataset_summary": {
+      "total_records": 1088,
+      "source_mix": {
+        "app_store": 283,
+        "play_store": 111,
+        "product_review": 35,
+        "product_reviews": 92,
+        "reddit": 283,
+        "seed_urls": 94,
+        "web_article": 1,
+        "youtube": 189
+      }
+    },
+    "suggested_followups": [
+      "What are the top barriers to conversion?",
+      "Are there differences between iOS and Android users?",
+      "How does price uncertainty impact the wishlist?"
+    ]
+  },
+  "How do these behaviors differ across user segments?": {
+    "answer": "Error communicating with AI model: Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01kvb0wqezevgrqxd024d1rk3v` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 6797, Requested 1226. Please try again in 172.5ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "sources": [
+      {
+        "record_id": "7fb41ebd-c116-4289-b4d3-aae55055c4ac",
+        "quote": "User Feedback (Source: app_store): Love the quality and fit It looks and feels amazing!\nContext: The user is in the 'Unknown' stage. Their primary int...",
+        "original_url": "https://apps.apple.com/us/app/id907394059",
+        "platform": "unknown",
+        "source_type": "app_store",
+        "rating": null
+      },
+      {
+        "record_id": "be2b7670-dabd-4a4f-b9e9-f3cd13a81f61",
+        "quote": "User Feedback (Source: seed_urls): Comparing this with a similar top on Ajio. Hard to compare prices easily across apps. Sigh.\nContext: The user is in...",
+        "original_url": "https://synthetic.data/seed_urls/fd5e7b1b-68e6-4515-86ee-8b3471a11a39",
+        "platform": "unknown",
+        "source_type": "seed_urls",
+        "rating": null
+      },
+      {
+        "record_id": "ad3608a4-26ea-42e2-bdb9-7daaf7378842",
+        "quote": "User Feedback (Source: seed_urls): Comparing this with a similar top on Ajio. Hard to compare prices easily across apps. Sigh.\nContext: The user is in...",
+        "original_url": "https://synthetic.data/seed_urls/0e3a5925-d4d5-4de9-94a5-80639137fd04",
+        "platform": "unknown",
+        "source_type": "seed_urls",
+        "rating": null
+      },
+      {
+        "record_id": "5057c8ff-da20-4f1d-98c3-010b56023a06",
+        "quote": "User Feedback (Source: reddit): Comparing this with a similar top on Ajio. Hard to compare prices easily across apps.\nContext: The user is in the 'Pro...",
+        "original_url": "https://synthetic.data/reddit/841eb9db-0284-44f0-baaa-4e279dd05dc0",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      },
+      {
+        "record_id": "a24c6211-007c-44b8-895e-fe59ae54e431",
+        "quote": "User Feedback (Source: reddit): Comparing this with a similar top on Ajio. Hard to compare prices easily across apps.\nContext: The user is in the 'Pro...",
+        "original_url": "https://synthetic.data/reddit/05ca6a7b-13f6-43c8-902c-6acf64a6e16a",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      }
+    ],
+    "dataset_summary": {
+      "total_records": 1088,
+      "source_mix": {
+        "app_store": 283,
+        "play_store": 111,
+        "product_review": 35,
+        "product_reviews": 92,
+        "reddit": 283,
+        "seed_urls": 94,
+        "web_article": 1,
+        "youtube": 189
+      }
+    },
+    "suggested_followups": [
+      "What are the top barriers to conversion?",
+      "Are there differences between iOS and Android users?",
+      "How does price uncertainty impact the wishlist?"
+    ]
+  },
+  "What unmet needs emerge consistently across user conversations?": {
+    "answer": "Based on the provided records, the only unmet need that emerges consistently is the **difficulty in comparing products side-by-side**, which directly impacts the Wishlist-to-Purchase conversion.\n\n**Core Friction Grouping: Comparison**\n\n*   **Unmet Need:** Users require a feature to easily view and compare multiple items (specifically shoes) simultaneously to make a purchase decision.\n*   **Evidence:** Three distinct records indicate this specific barrier. Users explicitly state: \"Wish I could easily compare these 3 shoes side by side. Leaving them in my wishlist for now. Sigh.\" [Record 3], [Record 4], [Record 5].\n*   **Impact:** This friction causes users to remain in the \"Product evaluation\" stage and keep items in their wishlist without converting to purchase, citing \"Wishlist UX\" and \"Comparison difficulty\" as key barriers [Record 3], [Record 4], [Record 5].\n\n**Note on Other Categories:**\n*   **Price, Fit, Quality:** The remaining records [Record 1], [Record 2] express satisfaction with quality and fit (\"Love the quality and fit\", \"Great Good quality stuff\") and report no barriers. Therefore, no unmet needs regarding price, fit, or quality are present in the current dataset.",
+    "sources": [
+      {
+        "record_id": "7fb41ebd-c116-4289-b4d3-aae55055c4ac",
+        "quote": "User Feedback (Source: app_store): Love the quality and fit It looks and feels amazing!\nContext: The user is in the 'Unknown' stage. Their primary int...",
+        "original_url": "https://apps.apple.com/us/app/id907394059",
+        "platform": "unknown",
+        "source_type": "app_store",
+        "rating": null
+      },
+      {
+        "record_id": "b6e5cae6-4ce3-4db7-a27d-6029c4244114",
+        "quote": "User Feedback (Source: app_store): Great Good quality stuff\nContext: The user is in the 'Unknown' stage. Their primary intent is 'unknown'. Key barrie...",
+        "original_url": "https://apps.apple.com/us/app/id907394059",
+        "platform": "unknown",
+        "source_type": "app_store",
+        "rating": null
+      },
+      {
+        "record_id": "3b5ed8e5-0aa5-4e8b-90d5-aa33a9ea7869",
+        "quote": "User Feedback (Source: reddit): Wish I could easily compare these 3 shoes side by side. Leaving them in my wishlist for now. Sigh.\nContext: The user i...",
+        "original_url": "https://synthetic.data/reddit/441d3ea3-a774-4e2a-958f-17d21ee14c69",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      },
+      {
+        "record_id": "41ba3166-806b-49f2-a97d-deda8441f94d",
+        "quote": "User Feedback (Source: reddit): Wish I could easily compare these 3 shoes side by side. Leaving them in my wishlist for now. Sigh.\nContext: The user i...",
+        "original_url": "https://synthetic.data/reddit/abb5f4d5-a5f7-4068-8c59-946d4f0336e2",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      },
+      {
+        "record_id": "011bbab7-ec06-4b6b-82f0-42b9938c2c27",
+        "quote": "User Feedback (Source: reddit): Wish I could easily compare these 3 shoes side by side. Leaving them in my wishlist for now. Sigh.\nContext: The user i...",
+        "original_url": "https://synthetic.data/reddit/4e27fc6c-b987-4b62-9e41-b933fe1341a2",
+        "platform": "unknown",
+        "source_type": "reddit",
+        "rating": null
+      }
+    ],
+    "dataset_summary": {
+      "total_records": 1088,
+      "source_mix": {
+        "app_store": 283,
+        "play_store": 111,
+        "product_review": 35,
+        "product_reviews": 92,
+        "reddit": 283,
+        "seed_urls": 94,
+        "web_article": 1,
+        "youtube": 189
+      }
+    },
+    "suggested_followups": [
+      "What are the top barriers to conversion?",
+      "Are there differences between iOS and Android users?",
+      "How does price uncertainty impact the wishlist?"
+    ]
+  }
+}

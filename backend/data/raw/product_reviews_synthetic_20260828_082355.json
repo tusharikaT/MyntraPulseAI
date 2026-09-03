@@ -1,0 +1,2956 @@
+{
+  "scraper": "synthetic_generator",
+  "scraped_at": "2026-08-28T02:53:55.288575+00:00",
+  "config_snapshot": {
+    "distribution": 108
+  },
+  "stats": {
+    "total_fetched": 108,
+    "after_keyword_filter": 108,
+    "is_synthetic": true
+  },
+  "records": [
+    {
+      "record_id": "d5561ba8-423d-439b-a0d9-501a27e9129e",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/6fa0627c-62d8-4fd8-ac90-32639b82617e",
+      "raw_text": "Loved the design but I've been burned by bad quality before. Need more authentic customer photos. So confusing.",
+      "date_published": "2025-12-23T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "bbb43527-86af-475d-b734-b4c10af6f6a8",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/c0ae7e6e-22d1-46d8-b89f-067217131574",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops. Really annoying.",
+      "date_published": "2025-09-30T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "2fc76c37-0f04-46b8-8014-9fd7d255bd40",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/e87faa6d-174f-456b-9d45-73180be510d2",
+      "raw_text": "I want to buy these jeans but I'm unsure about the fit. The size chart is confusing. Really annoying.",
+      "date_published": "2026-05-21T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "a13364e7-1d98-4612-afd8-d082b760c286",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/878626bc-a184-4a20-a17b-8849cad79e21",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops. Please fix this.",
+      "date_published": "2026-01-14T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "0d6918c8-2243-44b8-a7bd-24f86d21ad2a",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/07f8930f-afb2-4e12-8489-6f246cb0168b",
+      "raw_text": "Saved it for later. I need better size information before I spend this much. Sigh.",
+      "date_published": "2026-04-30T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "7c5681b0-67a9-4004-90ae-19042ef97c8b",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/a3105a99-c6c0-450d-a312-f25f83b4e00f",
+      "raw_text": "Loved the design but I've been burned by bad quality before. Need more authentic customer photos. Really annoying.",
+      "date_published": "2025-09-08T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "d44218fa-2cd5-4309-be8c-b10c224fa6bc",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/20768bff-e8a3-4c60-ae6d-a7e179656e33",
+      "raw_text": "I wish there were more reviews about how this fits for taller people. Keeping in wishlist for now. Sigh.",
+      "date_published": "2026-02-17T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "080e237b-d1f1-4895-9a9a-39d289c9f4a8",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/ace68520-54c6-4f3c-885f-ecffdb0c462e",
+      "raw_text": "The pictures look nice but I can't tell what the fabric feels like. Wishlisted it until I find a YouTube review. Sigh.",
+      "date_published": "2026-07-26T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "b60f7539-a041-4a33-976c-f1c112aec599",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/6ae614bd-8c54-474c-82ec-c37aa829e4e4",
+      "raw_text": "The pictures look nice but I can't tell what the fabric feels like. Wishlisted it until I find a YouTube review.",
+      "date_published": "2026-05-09T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "a150d3e5-189f-41ec-9478-b68cc5e2fd71",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/d6731082-6ac1-4705-968f-cc9d195efd95",
+      "raw_text": "I wish there were more reviews about how this fits for taller people. Keeping in wishlist for now.",
+      "date_published": "2026-04-09T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "59421d48-345b-4e30-9494-3ae47f956bbb",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/b20ce5b6-da00-4331-a9c3-848a88cdfa67",
+      "raw_text": "Waiting to see if anyone posts a haul with this top. The material details are very vague. Please fix this.",
+      "date_published": "2026-01-30T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "2297caf0-3e30-4f8a-accb-afc7865fe787",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/3eaaa3cf-5268-49bf-929a-f61924f37df8",
+      "raw_text": "I have 5 different black dresses saved. I can't decide which one is best. The wishlist is too cluttered. Really annoying.",
+      "date_published": "2026-07-16T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "eca7a583-bc99-43ac-93aa-96eb1032be13",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/352e68a7-21af-4f64-899c-9eeebf739a84",
+      "raw_text": "Is the material actually good or will it shrink? Hard to tell from the app. Saved it while I research.",
+      "date_published": "2025-11-06T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "4be349ec-d8cb-4c03-ad7e-8ece84937d74",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/ffedf7f6-0a04-4d5c-b108-568ba866a52b",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops. Really annoying.",
+      "date_published": "2025-12-05T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "75e577db-bead-467d-9c51-8be7035b053d",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/1d44420c-5b28-4a40-997c-a2e66eb48bac",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. Sigh.",
+      "date_published": "2026-02-12T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "49865fd8-1ed5-47c9-a6fd-69d36e5698c0",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/ee85fdac-2fb6-4713-ace5-8f4bd0cd27b2",
+      "raw_text": "Is the material actually good or will it shrink? Hard to tell from the app. Saved it while I research. So confusing.",
+      "date_published": "2025-11-07T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "4720e068-82f7-4f5e-98aa-9a390222cb2b",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/34e23c69-8170-4af7-bdea-e98830a43026",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now. Really annoying.",
+      "date_published": "2026-05-31T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "361002b7-4f10-4d56-b966-604d0bfd2092",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/7801ac87-3e07-41a6-aca1-6af5af1dcb28",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now. Sigh.",
+      "date_published": "2025-12-22T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "b5dc0029-e04d-435a-ace5-8dfdca1438ed",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/dd8354e9-f9db-44ab-8746-72427345f1b4",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops. Really annoying.",
+      "date_published": "2025-09-27T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "864aae55-76e6-4877-be30-da0dee771cb1",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/c7a77883-9a7a-4d2d-aebf-865ae2561e1e",
+      "raw_text": "Waiting to see if anyone posts a haul with this top. The material details are very vague. Please fix this.",
+      "date_published": "2025-10-14T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "7afe273a-4299-484f-8e24-6815cf88f61b",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/c43c1560-8d09-494b-8dd3-9a60b110446d",
+      "raw_text": "I wish there were more reviews about how this fits for taller people. Keeping in wishlist for now. Please fix this.",
+      "date_published": "2025-09-04T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "2569f7be-d615-4368-8231-a853e65f3a0e",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/07e274e7-06aa-431e-af0e-b23542dadb4d",
+      "raw_text": "Wishlisted here, but checking Amazon to see if it's cheaper there. So confusing.",
+      "date_published": "2026-03-11T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "4cfb9ca7-659d-4bb9-a435-9454746aecca",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/28b432a9-a22d-439c-931b-9b017f5bfd80",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops.",
+      "date_published": "2025-10-25T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "27be786b-9b8c-4eb6-99eb-f75c74fb9062",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/b2a6b8c1-26f5-4045-ba34-0fe6b7891c4f",
+      "raw_text": "Wishlisted here, but checking Amazon to see if it's cheaper there. Please fix this.",
+      "date_published": "2025-12-15T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "9678d5af-8d73-42c5-b86d-b44962664c71",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/8d5c5bd4-9336-472e-ad7d-7681ef07cd83",
+      "raw_text": "The pictures look nice but I can't tell what the fabric feels like. Wishlisted it until I find a YouTube review.",
+      "date_published": "2026-08-23T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "302c130c-86ec-4614-bf5f-f34c7cabf7c2",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/97c679e0-7190-45ce-85f2-07be7b1f0c0b",
+      "raw_text": "I wish there were more reviews about how this fits for taller people. Keeping in wishlist for now. So confusing.",
+      "date_published": "2025-12-24T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "317e5087-d839-4172-9089-9e84db55e9f0",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/548051e2-983f-4f2d-9de5-02f7471b111c",
+      "raw_text": "Wishlisted here, but checking Amazon to see if it's cheaper there. Please fix this.",
+      "date_published": "2026-03-23T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "76208b2d-a9e8-4439-a4e2-8febe5135c59",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/4a6e5077-f7aa-4851-b689-a3fc636b5450",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops.",
+      "date_published": "2025-11-25T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "2ed70b90-fc8b-4f9b-b2e7-9f26c47668b5",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/ab86fb19-8295-4e56-a346-b83e0785d485",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. Sigh.",
+      "date_published": "2025-10-22T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "28238523-d110-4f49-9519-b91dd000c4fc",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/44fd7c32-613b-4cc4-a833-1c8fda599457",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now. Really annoying.",
+      "date_published": "2026-03-13T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "50dde829-cc76-4c90-8410-8ce6669c36a6",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/983ad5b8-95cf-4a78-a9e9-0adb3f3aa2ea",
+      "raw_text": "Is the material actually good or will it shrink? Hard to tell from the app. Saved it while I research.",
+      "date_published": "2025-11-20T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "dadd2b55-cb31-4837-b902-0e31896f74c6",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/34185eb2-37f5-4c94-aec1-ebe101139b1a",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now. Sigh.",
+      "date_published": "2025-12-22T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "06a7a9aa-1a60-446a-ac7d-43afb96da64c",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/12d6793a-4aa6-419f-905c-3e39d950d223",
+      "raw_text": "Looks great but I don't want the hassle of returns if it doesn't fit. Myntra needs a better fit predictor.",
+      "date_published": "2025-12-22T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "30f81840-9a0c-4d9a-8278-090d82dd9fbe",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/fc4da04c-8ed5-4605-baeb-fc3cf5f520be",
+      "raw_text": "I wish there were more reviews about how this fits for taller people. Keeping in wishlist for now. Really annoying.",
+      "date_published": "2025-11-12T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "e84e21d5-d815-40b9-9041-cf3d0c4bcb87",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/f4ddfde6-2ee5-4188-9d13-c91f2efbb5ce",
+      "raw_text": "Waiting to see if anyone posts a haul with this top. The material details are very vague. Sigh.",
+      "date_published": "2026-08-13T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "8eb7f6aa-e08b-40aa-9aaa-1d9759ef5a6d",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/99cf7529-5412-430f-a0fe-f467ae03299d",
+      "raw_text": "I want to buy these jeans but I'm unsure about the fit. The size chart is confusing. Sigh.",
+      "date_published": "2026-01-01T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "43617b9c-aa34-42be-b884-125b11be03ae",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/f89ad054-205f-402b-9b9a-b63541d3b970",
+      "raw_text": "Waiting to see if anyone posts a haul with this top. The material details are very vague. Please fix this.",
+      "date_published": "2026-08-08T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "d9a03565-6eff-4b71-90a2-279cec2f0505",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/88785432-247a-435a-81d4-9a5e90a23e4a",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now. So confusing.",
+      "date_published": "2026-04-22T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "058ae402-a552-4559-8d9c-23bddc88ea12",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/521d56a0-8fd2-42bc-88ea-968b42062e44",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops. Sigh.",
+      "date_published": "2026-06-17T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "ea3933ad-2672-4a67-bda3-30b86ffd114c",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/fd404951-19ef-442a-8c20-00dfbd2a35f6",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now. Really annoying.",
+      "date_published": "2025-09-13T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "82aa7062-d37b-4bf5-9b3f-812c945626fc",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/931cc9e7-d359-4ff3-96e5-e8b3d592716f",
+      "raw_text": "Why doesn't Myntra notify me when the price of my wishlisted items goes down? I missed the sale!",
+      "date_published": "2026-01-20T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "b23f672d-3d6d-4fdf-b8d9-949645e2069a",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/0aef3ae3-3431-449b-82b3-3605db76fd48",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts.",
+      "date_published": "2026-06-27T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "db5fd9fc-ddf0-4e00-aff4-75d95e617b58",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/139d3039-08e8-4a60-b5b3-aa32533a12cb",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops. Sigh.",
+      "date_published": "2026-08-24T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "23c56034-973d-4491-9e32-74a557635312",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/4a60cbb4-4c6d-4ea9-9efc-00d25b17abb3",
+      "raw_text": "I want to buy these jeans but I'm unsure about the fit. The size chart is confusing. Sigh.",
+      "date_published": "2026-08-15T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "2a277bda-1f2b-4420-950c-57f35a2c14a6",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/cbb600a6-f137-4c14-a652-19ab2f827e70",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts.",
+      "date_published": "2026-03-27T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "8be6c6aa-2ee5-4649-8867-d2126b6414a7",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/c9e8e7d4-b763-4a00-bc2a-e715adcbb488",
+      "raw_text": "The pictures look nice but I can't tell what the fabric feels like. Wishlisted it until I find a YouTube review. Really annoying.",
+      "date_published": "2025-11-21T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "b2c19eef-b6b7-40bc-a6ca-d05be88315cb",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/1090a3ef-af2f-4221-84ca-c2baf2dddb4f",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops. Really annoying.",
+      "date_published": "2025-08-29T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "d4f222a9-90ba-44e0-8a82-6016010efa50",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/83c9a4a9-5f4e-420b-a281-0211c310c810",
+      "raw_text": "Is the material actually good or will it shrink? Hard to tell from the app. Saved it while I research. Really annoying.",
+      "date_published": "2025-12-31T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "df010bf7-e55d-400a-94ee-0a428e5e335f",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/7b15ec1e-59d8-45e5-851b-02adf3d44c6a",
+      "raw_text": "Is the material actually good or will it shrink? Hard to tell from the app. Saved it while I research. Please fix this.",
+      "date_published": "2025-09-23T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "be94410a-09bb-4e43-b6ee-593a5d90b8e3",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/ee9216a6-53a3-4f63-b881-7cf1346b190b",
+      "raw_text": "Comparing this with a similar top on Ajio. Hard to compare prices easily across apps.",
+      "date_published": "2025-10-03T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "be7529ce-3eca-4077-a903-97a51fbafb94",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/00ac728d-e49d-4ebd-bb78-be10d5c43ba4",
+      "raw_text": "I want to buy these jeans but I'm unsure about the fit. The size chart is confusing.",
+      "date_published": "2025-09-13T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "99b8fbd9-ffce-4bae-9128-acd38edcd0ca",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/f42def4b-b210-41a6-92bd-56776021760c",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. Sigh.",
+      "date_published": "2026-06-20T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "5fc4c6ef-0f17-4ab3-8d10-c3a27a2c6923",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/9289f425-6dae-45eb-8166-89b63be2342d",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. So confusing.",
+      "date_published": "2026-01-02T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "c91bc336-3897-4ee9-b63a-5fa98639a856",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/2112c9ef-dd9e-40a4-a83f-904cc3479042",
+      "raw_text": "Wishlisted here, but checking Amazon to see if it's cheaper there. Really annoying.",
+      "date_published": "2026-06-10T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "c7b588c9-a462-4fc7-a543-c3e210bae7e8",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/ea1c44e0-7182-43ce-8003-20eae5d0f696",
+      "raw_text": "Saved it for later. I need better size information before I spend this much. Please fix this.",
+      "date_published": "2025-11-29T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "27428af1-752d-44c2-ad31-1d2d4f4050eb",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/c4e47567-6947-4416-b9ac-56716bd806b1",
+      "raw_text": "Looks great but I don't want the hassle of returns if it doesn't fit. Myntra needs a better fit predictor.",
+      "date_published": "2026-05-24T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "b52fdd5f-0302-4d14-9ca7-e9422162ae33",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/fa0c3ea1-a887-4722-a23d-373702ad3b5a",
+      "raw_text": "I have 5 different black dresses saved. I can't decide which one is best. The wishlist is too cluttered. Really annoying.",
+      "date_published": "2025-09-16T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "d415ef4c-ae69-4834-a679-bcf21aa4fc5d",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/efd2ebf5-d2e4-4773-a7d3-921fc84b0656",
+      "raw_text": "I want to buy these jeans but I'm unsure about the fit. The size chart is confusing. Please fix this.",
+      "date_published": "2026-05-27T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "4c203ef0-ee72-4027-a459-cd993423d429",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/acbcff6c-975b-47da-965e-51f6a9dfa014",
+      "raw_text": "Why doesn't Myntra notify me when the price of my wishlisted items goes down? I missed the sale! So confusing.",
+      "date_published": "2026-04-23T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "50692555-e353-4610-8f0c-297f6d57dfb1",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/242edee6-2c70-4dfa-a0ac-1e1c3b2d2e0f",
+      "raw_text": "Saved it for later. I need better size information before I spend this much. Please fix this.",
+      "date_published": "2026-04-02T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "3287fc7b-5674-41b1-92f5-b5c5e31ee676",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/177e6555-7d3a-4a09-9a01-2d571657f830",
+      "raw_text": "Is the material actually good or will it shrink? Hard to tell from the app. Saved it while I research. Sigh.",
+      "date_published": "2025-11-26T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "08195f2c-48bf-4e9e-85c9-011fef3df842",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/2f4af4c1-476e-4a1e-8b51-d2decee9b6ff",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now.",
+      "date_published": "2026-04-11T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "d6c75b85-ab39-46db-978f-3da2847dc4b0",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/b5f54db9-3e20-4687-bae2-51524bab0dba",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now. Sigh.",
+      "date_published": "2026-07-26T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "77e04088-7893-4941-884a-5214ff5e4d06",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/1a44e4c7-7437-4d24-b933-528cb72c991f",
+      "raw_text": "Looks great but I don't want the hassle of returns if it doesn't fit. Myntra needs a better fit predictor.",
+      "date_published": "2026-06-02T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "e94ed250-a2b9-41e3-b88f-f31d2611defe",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/09e3b373-31d5-4b5a-8df5-cac90a54eef1",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. So confusing.",
+      "date_published": "2026-06-21T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "8e695c61-5b2e-4355-a631-49a1eb1152e0",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/f8ef9ef7-6317-4409-adf8-e133d5739df6",
+      "raw_text": "Why doesn't Myntra notify me when the price of my wishlisted items goes down? I missed the sale! So confusing.",
+      "date_published": "2025-10-07T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "90a33e8b-4173-4102-be7d-169a664e582f",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/e5941a4a-b32c-44e7-8e11-bb202756c624",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. Sigh.",
+      "date_published": "2026-07-20T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "2193af57-548c-4da4-b5f6-2beead624431",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/bbc73407-cca1-48d5-ac86-97205ae81c46",
+      "raw_text": "Loved the design but I've been burned by bad quality before. Need more authentic customer photos. Please fix this.",
+      "date_published": "2025-09-02T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "c0b18195-cef1-4d67-b1cc-00efce063376",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/aa6d2f2b-460a-4495-80b2-da33643a6a50",
+      "raw_text": "Why doesn't Myntra notify me when the price of my wishlisted items goes down? I missed the sale! Please fix this.",
+      "date_published": "2025-10-18T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "f685689a-5dab-44d9-995b-453f6f69869e",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/d69a720f-8207-461c-aa0d-f3ab5b494419",
+      "raw_text": "Looks great but I don't want the hassle of returns if it doesn't fit. Myntra needs a better fit predictor. So confusing.",
+      "date_published": "2026-07-23T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "02e1f393-4050-43e1-9704-b2daef04e503",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/7c3fc674-b6c1-41fb-8e1b-c784e8ea0712",
+      "raw_text": "Loved the design but I've been burned by bad quality before. Need more authentic customer photos. Really annoying.",
+      "date_published": "2026-05-03T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "c0f6c99d-057d-4ce1-9b59-0cb0724a5cae",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/ca89f520-78aa-494e-be24-f286ad3acc85",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now. Please fix this.",
+      "date_published": "2025-12-05T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "9a00e3de-9f3f-4df9-a053-e9aca414e82a",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/5106e21b-6b51-4380-991d-0ff5f01bbb07",
+      "raw_text": "Wishlisted here, but checking Amazon to see if it's cheaper there.",
+      "date_published": "2026-08-12T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "63bf4c58-29a4-46d4-9745-eeef57d74f6e",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/038dc86b-cf4f-46ff-93b2-3f4d1c7d37c9",
+      "raw_text": "Looks great but I don't want the hassle of returns if it doesn't fit. Myntra needs a better fit predictor. Please fix this.",
+      "date_published": "2026-08-17T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "b35445eb-bf00-4833-b0c6-ce33a42b89b7",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/df8dd29b-fe72-4075-b336-c2e70d08a9f3",
+      "raw_text": "I want to buy these jeans but I'm unsure about the fit. The size chart is confusing. Really annoying.",
+      "date_published": "2026-06-12T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "fa78d8ad-dde6-4c89-94c4-27a196ac314b",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/bc27d55c-f4b4-4657-9377-ee1d1336dbd9",
+      "raw_text": "Looks great but I don't want the hassle of returns if it doesn't fit. Myntra needs a better fit predictor. So confusing.",
+      "date_published": "2025-10-19T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "56a16a4b-dcc8-4e90-867a-661ad4dee44c",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/1c8d3ed4-d93d-4767-98be-a5270e9d30ca",
+      "raw_text": "Saved it for later. I need better size information before I spend this much. Please fix this.",
+      "date_published": "2026-03-19T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "641d1d64-2a0c-4cc7-af88-051e36ee9f56",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/4a189380-7770-4913-ba47-36bb436475d7",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops.",
+      "date_published": "2026-05-20T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "fa9c8c70-bb3e-43c0-83a8-e8d925e0ec31",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/fc476f60-5d89-411d-b345-25bc805a443a",
+      "raw_text": "I wish there were more reviews about how this fits for taller people. Keeping in wishlist for now. Please fix this.",
+      "date_published": "2025-11-03T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "28bb44c1-ebf1-4cb9-a8ba-7c043946d77b",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/998191be-5103-4390-996a-cb4dd8dc64fb",
+      "raw_text": "Comparing this with a similar top on Ajio. Hard to compare prices easily across apps.",
+      "date_published": "2026-07-29T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "6a9474c7-c939-4e4a-b460-7ef4b68c181f",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/dd47326d-84fc-4ee4-bd45-d8eb15a8b002",
+      "raw_text": "Wish I could easily compare these 3 shoes side by side. Leaving them in my wishlist for now. Sigh.",
+      "date_published": "2026-06-01T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "6e2ef6fb-8ff9-44fc-92b8-cdcea1d86e1f",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/adeeda01-19e4-4709-969d-a4726aa6a18c",
+      "raw_text": "Loved the design but I've been burned by bad quality before. Need more authentic customer photos. Sigh.",
+      "date_published": "2025-11-15T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "dd6a1a54-f454-4669-8230-dcd25eb60bfd",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/2a256ac9-fd96-4e0b-92ae-bf1d6e1c2487",
+      "raw_text": "I love this dress but the price is too high. Waiting for EORS to see if it drops. Really annoying.",
+      "date_published": "2026-07-18T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "2b3c3e6e-56d3-4aa7-83e2-c6be209795bb",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/e6f87387-3139-44c6-a4a6-e2cf62ffcb17",
+      "raw_text": "Looks great but I don't want the hassle of returns if it doesn't fit. Myntra needs a better fit predictor.",
+      "date_published": "2026-06-10T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "09f7b985-d8ca-4434-a986-74ab632ee8ec",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/3a3b3c8b-cbcf-48a1-ad45-625bc0dda0a0",
+      "raw_text": "I wish there were more reviews about how this fits for taller people. Keeping in wishlist for now. Please fix this.",
+      "date_published": "2026-05-14T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "73edde8b-cd99-442a-b5af-dfa3b6be8dbd",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/8495497c-00ca-43f5-97a3-aa995dd89d61",
+      "raw_text": "Wish I could easily compare these 3 shoes side by side. Leaving them in my wishlist for now. So confusing.",
+      "date_published": "2026-08-10T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "7272a003-6a75-47ab-bae7-ed41dfe4cc5e",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/ede46430-dde5-4691-9606-5fb38759b45a",
+      "raw_text": "I want to buy these jeans but I'm unsure about the fit. The size chart is confusing.",
+      "date_published": "2026-01-04T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "054ace99-6378-4343-899f-c8a60b1ecdba",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/91025c43-6d46-4246-a3a3-1750c486b611",
+      "raw_text": "Comparing this with a similar top on Ajio. Hard to compare prices easily across apps. Really annoying.",
+      "date_published": "2025-12-03T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "75cac7b9-7b45-4692-a1f9-974103241f39",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/8c27acd1-341e-4353-81af-7bea7f730bb6",
+      "raw_text": "Why doesn't Myntra notify me when the price of my wishlisted items goes down? I missed the sale! Really annoying.",
+      "date_published": "2025-12-11T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "562955c9-d052-4397-9078-f839481b3cc9",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/b45f0979-512f-4381-baab-9cc6764f803b",
+      "raw_text": "Looks great but I don't want the hassle of returns if it doesn't fit. Myntra needs a better fit predictor. So confusing.",
+      "date_published": "2026-07-27T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "8bf8b7cc-3e44-4e1b-b8af-0392dead7c88",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/8f85abc3-a711-43e8-8284-3234e8330d70",
+      "raw_text": "I have 5 different black dresses saved. I can't decide which one is best. The wishlist is too cluttered. Really annoying.",
+      "date_published": "2026-04-19T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "41100f74-5b61-4f8e-a31f-d5b4020c4920",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/f8ac5ed1-cecb-4518-96b5-85541ce6759f",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. Sigh.",
+      "date_published": "2026-07-21T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 2.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "d23b021b-bb45-4f13-bbe4-a168f580b8a5",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/7f33b363-eae7-48e9-b536-230681e10660",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now. Sigh.",
+      "date_published": "2025-10-24T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "5d773f14-b580-456a-b474-4499f6069df3",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/f4aef358-adb5-4510-8604-e4b88a463d55",
+      "raw_text": "Keeping it in my wishlist until the price is right. Myntra needs better price drop alerts. Really annoying.",
+      "date_published": "2025-09-14T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "62cc24f8-26f4-4b57-afa2-b4dc04f98265",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/4ee35d97-a076-4ff7-8475-f73c07f7332d",
+      "raw_text": "The pictures look nice but I can't tell what the fabric feels like. Wishlisted it until I find a YouTube review. Please fix this.",
+      "date_published": "2026-02-08T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "7b31aaef-7085-459e-af46-69b878dc7cbe",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/28320441-8a60-4d49-ae63-48d31a6d0d33",
+      "raw_text": "Looks great but I don't want the hassle of returns if it doesn't fit. Myntra needs a better fit predictor.",
+      "date_published": "2025-11-19T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "bcadcfa8-85b7-4387-9ba0-ca79291137a9",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/6ee8f912-0c39-4d05-920c-3a37315917af",
+      "raw_text": "Why doesn't Myntra notify me when the price of my wishlisted items goes down? I missed the sale! Really annoying.",
+      "date_published": "2025-09-25T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "c9d15200-9c85-4f8f-acd6-cd33c3b31b63",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/90c989d2-913c-4738-82fc-d85af04611e8",
+      "raw_text": "Waiting to see if anyone posts a haul with this top. The material details are very vague. So confusing.",
+      "date_published": "2026-04-01T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "c13b6e11-c2bc-434f-a28a-dba82561d0bf",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/2b28c46b-3514-42d1-9852-70bd8c0b7e35",
+      "raw_text": "Wishlisted this weeks ago, just waiting for a better deal. It's too expensive right now. Sigh.",
+      "date_published": "2026-06-25T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "dd0c7999-5443-4692-bc2c-72707ec0e32c",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/0ce4c8b2-918d-43c4-b401-c43930aaf727",
+      "raw_text": "Why doesn't Myntra notify me when the price of my wishlisted items goes down? I missed the sale!",
+      "date_published": "2026-02-24T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "6b1de815-3827-467b-81fa-3786b17dc271",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/354ea1e8-53c7-418c-aca7-5e40b772295d",
+      "raw_text": "I wish there were more reviews about how this fits for taller people. Keeping in wishlist for now. Really annoying.",
+      "date_published": "2026-04-22T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "4c3e91ed-e822-4cab-a21a-276e534a87ff",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/1db45e9a-f49b-416c-a824-974be7ea558b",
+      "raw_text": "Why doesn't Myntra notify me when the price of my wishlisted items goes down? I missed the sale! So confusing.",
+      "date_published": "2026-06-25T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "b53f6b24-d508-4598-ac42-7152488835f9",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/02e6b08a-5047-4dd5-9d23-90231c2429cf",
+      "raw_text": "Why doesn't Myntra notify me when the price of my wishlisted items goes down? I missed the sale!",
+      "date_published": "2026-03-30T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "price_monitoring",
+          "barrier_labels": [
+            "price_value_uncertainty"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "none"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "8aa3eb46-2dc9-4906-8534-6fb847ee3ca8",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/b20fcd60-0ba4-46c4-8492-3f05c1359625",
+      "raw_text": "Saved it for later. I need better size information before I spend this much.",
+      "date_published": "2026-04-27T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "efbaba25-f44c-43c2-9fe5-e09d80a285d3",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/78f9323e-a8e3-437f-96d9-d849c6e2cdfb",
+      "raw_text": "Comparing this with a similar top on Ajio. Hard to compare prices easily across apps. So confusing.",
+      "date_published": "2026-01-30T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 3.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "comparison",
+          "wishlist_intent": "comparison",
+          "barrier_labels": [
+            "comparison_difficulty",
+            "clutter"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "other_ecommerce",
+            "google"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "2ac9403a-a654-4bdc-89fd-32012829f08c",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/105c813d-783a-4d7f-8c15-cb677d905b65",
+      "raw_text": "Saved it for later. I need better size information before I spend this much. Sigh.",
+      "date_published": "2026-08-28T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 4.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "abaee5e8-4016-4d11-9515-c4ddc5669efe",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/ba21073a-a03c-4a2d-86b0-2b7d545f6a40",
+      "raw_text": "I wish there were more reviews about how this fits for taller people. Keeping in wishlist for now.",
+      "date_published": "2026-08-16T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 5.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "wishlist_revisit",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "fit",
+            "size_chart"
+          ],
+          "purchase_outcome": "postponed",
+          "external_research": [
+            "youtube",
+            "reddit"
+          ]
+        }
+      }
+    },
+    {
+      "record_id": "b2c09693-2ec3-4a1d-a9aa-4c833a21f5ce",
+      "source_type": "product_reviews",
+      "platform": "Trustpilot",
+      "original_url": "https://synthetic.data/product_reviews/a7103f9e-5113-4b07-b86f-84407d90f6c1",
+      "raw_text": "Is the material actually good or will it shrink? Hard to tell from the app. Saved it while I research. Sigh.",
+      "date_published": "2025-12-09T02:53:55.288575+00:00",
+      "date_scraped": "2026-08-28T02:53:55.288575+00:00",
+      "rating": 1.0,
+      "engagement": null,
+      "language": "en",
+      "metadata": {
+        "is_synthetic": true,
+        "synthetic_tags": {
+          "journey_stage": "pdp",
+          "wishlist_intent": "genuine_consideration",
+          "barrier_labels": [
+            "quality",
+            "reviews_info_gaps"
+          ],
+          "purchase_outcome": "abandoned",
+          "external_research": [
+            "youtube",
+            "instagram"
+          ]
+        }
+      }
+    }
+  ]
+}

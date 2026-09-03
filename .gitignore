@@ -1,0 +1,34 @@
+# Environments & Caches
+.env
+.venv
+env/
+venv/
+__pycache__/
+*.pyc
+.gemini/
+
+# Node
+node_modules/
+dist/
+build/
+.npm/
+
+# OS Files
+.DS_Store
+
+# Ignore all markdown files and the docs folder
+*.md
+docs/
+
+# CRITICAL EXCEPTIONS for deployment:
+!frontend/README.md
+
+# Fake data generation scripts and exports
+backend/scripts/generate_synthetic_data.py
+export_*.py
+test_groq_models.py
+
+# Note on Database (discovery.db):
+# If you want to ignore the database to start fresh on deployment, uncomment the line below.
+# However, if you ignore the DB, your deployed app will be completely empty unless you run the seed scripts on the server!
+# backend/data/db/*.db

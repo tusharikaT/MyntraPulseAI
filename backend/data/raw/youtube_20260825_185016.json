@@ -1,0 +1,1015 @@
+{
+  "scraper": "youtube",
+  "scraped_at": "2026-08-25T13:20:16.989996+00:00",
+  "config_snapshot": {
+    "video_count": 0,
+    "max_comments": 100
+  },
+  "stats": {
+    "total_fetched": 50,
+    "errors": 0,
+    "notes": "Populated with dummy data per user request."
+  },
+  "records": [
+    {
+      "record_id": "6a37ef27-1073-4b57-a1ea-0dfa2352c3d9",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "So helpful! I didn't buy the jacket because I wasn't sure about the fit, but your video convinced me.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 390
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Neha Gupta"
+      }
+    },
+    {
+      "record_id": "73e1fce8-89cd-492f-84d1-38af75073fb4",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "I abandoned my cart yesterday because the delivery fee was ridiculous. Thanks for the review though!",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 102
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Riya Kapoor"
+      }
+    },
+    {
+      "record_id": "d8235247-ef8f-4dab-b198-4efaf2e497e3",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "I ordered the exact same top but the material was terrible in person. Had to get a refund.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 568
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Karan Malhotra"
+      }
+    },
+    {
+      "record_id": "77ff8ffe-992d-45d2-8f3f-864a3228f7b4",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Does anyone know if the sizing is accurate? I always have to return things because they don't fit right.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 957
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Priya Patel"
+      }
+    },
+    {
+      "record_id": "e89a30c5-1116-44e9-a575-baf7cfbba773",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Does anyone know if the sizing is accurate? I always have to return things because they don't fit right.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 195
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Pooja Verma"
+      }
+    },
+    {
+      "record_id": "bb172202-d1cc-486e-ba03-ef321cbb340c",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "The return process on Myntra is usually smooth, but I hate when the size I want is never restocked.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 313
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Zara Khan"
+      }
+    },
+    {
+      "record_id": "3d44d26b-e362-4a33-bd99-203b4b378e32",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Great haul! But honestly, I saved like 5 of these items to my wishlist and they were all out of stock when I tried to buy.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 955
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Pooja Verma"
+      }
+    },
+    {
+      "record_id": "ed51e5b8-95ca-46d4-a8e7-7a69f2819e25",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Great haul! But honestly, I saved like 5 of these items to my wishlist and they were all out of stock when I tried to buy.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 130
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Neha Gupta"
+      }
+    },
+    {
+      "record_id": "4e284b17-3941-4b13-89a7-6a1cdc07508a",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Does anyone know if the sizing is accurate? I always have to return things because they don't fit right.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 836
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Arjun Nair"
+      }
+    },
+    {
+      "record_id": "0581fefc-3a1b-4021-a69c-9237e12c5141",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "So helpful! I didn't buy the jacket because I wasn't sure about the fit, but your video convinced me.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 673
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Siddharth Das"
+      }
+    },
+    {
+      "record_id": "e8090959-8010-4ac9-9be0-05b74e8bd0a7",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "The quality on that second dress looks amazing. Added to my cart instantly!",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 455
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Rohan Mehta"
+      }
+    },
+    {
+      "record_id": "f0b35221-d1fb-4791-b145-2f62a6c885a2",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Does anyone know if the sizing is accurate? I always have to return things because they don't fit right.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 463
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Priya Patel"
+      }
+    },
+    {
+      "record_id": "5aa43815-292d-4633-849b-3083d429e58e",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Are these authentic? I bought a branded bag on sale and it felt a bit fake.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 538
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Kabir Bose"
+      }
+    },
+    {
+      "record_id": "7345f59f-1bd7-45f9-a00d-edeb9b49d2d3",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "So helpful! I didn't buy the jacket because I wasn't sure about the fit, but your video convinced me.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 204
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Aditya Joshi"
+      }
+    },
+    {
+      "record_id": "a8bbbd92-11ab-4233-8243-afc8e0c348df",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Does anyone know if the sizing is accurate? I always have to return things because they don't fit right.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 671
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Karan Malhotra"
+      }
+    },
+    {
+      "record_id": "10a0ac7c-5f91-43b1-9761-2cc1b9b3ad49",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "I've been waiting for a price drop on those jeans for months! They are in my saved items forever.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 286
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Rohan Mehta"
+      }
+    },
+    {
+      "record_id": "bde0dc1e-98a3-467b-96b0-093e64e78a2c",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Great haul! But honestly, I saved like 5 of these items to my wishlist and they were all out of stock when I tried to buy.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 254
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Rahul Sharma"
+      }
+    },
+    {
+      "record_id": "5c8abf2b-3a80-4599-a659-3f35c12f45d3",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Great haul! But honestly, I saved like 5 of these items to my wishlist and they were all out of stock when I tried to buy.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 853
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Riya Kapoor"
+      }
+    },
+    {
+      "record_id": "cb77484f-512b-4640-acce-69d702c60260",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Great haul! But honestly, I saved like 5 of these items to my wishlist and they were all out of stock when I tried to buy.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 781
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Siddharth Das"
+      }
+    },
+    {
+      "record_id": "9f971378-d5ac-41df-a06f-f560f96aeca3",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Does anyone know if the sizing is accurate? I always have to return things because they don't fit right.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 528
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Zara Khan"
+      }
+    },
+    {
+      "record_id": "b0e22dea-cf16-4eb2-a9b4-02f41ad19568",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Are these authentic? I bought a branded bag on sale and it felt a bit fake.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 239
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Kabir Bose"
+      }
+    },
+    {
+      "record_id": "a10c8a3a-548a-4110-8580-1e654ce70bba",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "I abandoned my cart yesterday because the delivery fee was ridiculous. Thanks for the review though!",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 208
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Amit Kumar"
+      }
+    },
+    {
+      "record_id": "97d73985-c61f-4d5c-94a4-018c37c4d46c",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Are these authentic? I bought a branded bag on sale and it felt a bit fake.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 249
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Sneha Reddy"
+      }
+    },
+    {
+      "record_id": "b3f1c223-5236-49e3-b6b7-a9d22d9cd659",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Are these authentic? I bought a branded bag on sale and it felt a bit fake.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 310
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Aisha Sheikh"
+      }
+    },
+    {
+      "record_id": "8ee3d3dd-b2ae-4d65-b2f9-ff08d46e1e86",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Loved the Nykaa fashion try on. Myntra's wish list is so glitchy for me, I might switch apps.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 90
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Aditya Joshi"
+      }
+    },
+    {
+      "record_id": "2fc98f50-9d82-4e55-9404-da21857b0c59",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Great haul! But honestly, I saved like 5 of these items to my wishlist and they were all out of stock when I tried to buy.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 785
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Priya Patel"
+      }
+    },
+    {
+      "record_id": "91f5d27a-0ee1-499d-9cc9-33c9e94a4bf1",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "I've been waiting for a price drop on those jeans for months! They are in my saved items forever.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 483
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Aditya Joshi"
+      }
+    },
+    {
+      "record_id": "6ec1c089-6eb8-4e66-8c5e-253b6d63cfa3",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "I ordered the exact same top but the material was terrible in person. Had to get a refund.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 101
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Siddharth Das"
+      }
+    },
+    {
+      "record_id": "483b974b-afdb-47c1-a4f1-c41667d1705b",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "I abandoned my cart yesterday because the delivery fee was ridiculous. Thanks for the review though!",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 632
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Neha Gupta"
+      }
+    },
+    {
+      "record_id": "97c9e5d5-e6f2-48fe-9a18-57871ec2e847",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Are these authentic? I bought a branded bag on sale and it felt a bit fake.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 534
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Arjun Nair"
+      }
+    },
+    {
+      "record_id": "da564571-20af-4ac5-8b93-482bac5bfbfe",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Does anyone know if the sizing is accurate? I always have to return things because they don't fit right.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 994
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Riya Kapoor"
+      }
+    },
+    {
+      "record_id": "142a5cab-124b-4886-b517-9959bd427d86",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "I ordered the exact same top but the material was terrible in person. Had to get a refund.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 928
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Pooja Verma"
+      }
+    },
+    {
+      "record_id": "8a0bab24-32cb-4202-b117-02e064d20c4d",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Does anyone know if the sizing is accurate? I always have to return things because they don't fit right.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 771
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Neha Gupta"
+      }
+    },
+    {
+      "record_id": "c2a0203a-8b37-445a-8b22-b396bac00afc",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "The quality on that second dress looks amazing. Added to my cart instantly!",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 298
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Aditya Joshi"
+      }
+    },
+    {
+      "record_id": "ae589263-5c70-4237-9b79-5103acd8f216",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "The return process on Myntra is usually smooth, but I hate when the size I want is never restocked.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 487
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Kavita Rao"
+      }
+    },
+    {
+      "record_id": "981c38c5-57e8-4fa7-94d2-b3468dec8222",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "I abandoned my cart yesterday because the delivery fee was ridiculous. Thanks for the review though!",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 874
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Neha Gupta"
+      }
+    },
+    {
+      "record_id": "5c261834-9eb3-49a5-a93e-93aca49f754a",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "I abandoned my cart yesterday because the delivery fee was ridiculous. Thanks for the review though!",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 482
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Neha Gupta"
+      }
+    },
+    {
+      "record_id": "cc7102d5-52cb-4d3e-ba9d-8fea1bda073c",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Great haul! But honestly, I saved like 5 of these items to my wishlist and they were all out of stock when I tried to buy.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 359
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Aisha Sheikh"
+      }
+    },
+    {
+      "record_id": "f8aec219-6f7f-4398-8726-7e13c563b1c6",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "So helpful! I didn't buy the jacket because I wasn't sure about the fit, but your video convinced me.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 520
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Zara Khan"
+      }
+    },
+    {
+      "record_id": "592788ad-10fd-46eb-9b0e-cec8e06612ac",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "I ordered the exact same top but the material was terrible in person. Had to get a refund.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 861
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Rahul Sharma"
+      }
+    },
+    {
+      "record_id": "d641e5aa-1930-4386-ba4d-aa4989d90ec4",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "The quality on that second dress looks amazing. Added to my cart instantly!",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 928
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Kabir Bose"
+      }
+    },
+    {
+      "record_id": "61a4b83a-67e1-4407-8b28-1ffab1b4c7cf",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Are these authentic? I bought a branded bag on sale and it felt a bit fake.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 178
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Aryan Ali"
+      }
+    },
+    {
+      "record_id": "deeb7c65-5d21-4ca2-863f-d776da1cd6bf",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "The return process on Myntra is usually smooth, but I hate when the size I want is never restocked.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 24
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Karan Malhotra"
+      }
+    },
+    {
+      "record_id": "df8738af-3c0a-4186-9780-7197cb8e682c",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "I've been waiting for a price drop on those jeans for months! They are in my saved items forever.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 125
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Anjali Desai"
+      }
+    },
+    {
+      "record_id": "bbcb5c98-03c0-4edb-b8a3-719816a08ca1",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "I ordered the exact same top but the material was terrible in person. Had to get a refund.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 574
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Karan Malhotra"
+      }
+    },
+    {
+      "record_id": "6bb252dc-5e83-440e-8373-b47abd85cd98",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Loved the Nykaa fashion try on. Myntra's wish list is so glitchy for me, I might switch apps.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 974
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Rohan Mehta"
+      }
+    },
+    {
+      "record_id": "74427a92-a85e-4afc-99d2-0d991f4f47b7",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "The return process on Myntra is usually smooth, but I hate when the size I want is never restocked.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 175
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Amit Kumar"
+      }
+    },
+    {
+      "record_id": "821c4fd8-222d-43a1-835c-a6c0f2930161",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "The quality on that second dress looks amazing. Added to my cart instantly!",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 464
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Kabir Bose"
+      }
+    },
+    {
+      "record_id": "c7e55bb4-809c-4008-bb84-a07a22435542",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "Loved the Nykaa fashion try on. Myntra's wish list is so glitchy for me, I might switch apps.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 717
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Tara Menon"
+      }
+    },
+    {
+      "record_id": "8d28239b-f344-4dbf-8b80-8d49bb2696b7",
+      "source_type": "youtube",
+      "platform": "YouTube",
+      "original_url": "https://www.youtube.com/watch?v=dummy",
+      "raw_text": "I've been waiting for a price drop on those jeans for months! They are in my saved items forever.",
+      "date_published": "2 months ago",
+      "date_scraped": "2026-08-26T04:54:59.079855+00:00",
+      "rating": null,
+      "engagement": {
+        "likes": 297
+      },
+      "language": "en",
+      "metadata": {
+        "video_id": "dummy",
+        "video_title": "Huge Myntra Fashion Haul!",
+        "channel": "FashionVlogger101",
+        "author": "Priya Patel"
+      }
+    }
+  ]
+}
