@@ -28,3 +28,9 @@ test_groq_models.py
 # If you want to ignore the database to start fresh on deployment, uncomment the line below.
 # However, if you ignore the DB, your deployed app will be completely empty unless you run the seed scripts on the server!
 # backend/data/db/*.db
+
+# Ignored data and plan files
+summary.json
+Responses.xlsx
+phase4_themes_export.csv
+implementation_plan_4sep
