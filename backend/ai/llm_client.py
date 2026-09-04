@@ -5,18 +5,31 @@ from dotenv import load_dotenv
 
 load_dotenv(os.path.join(os.path.dirname(__file__), "../../.env"))
 
-def get_groq_client():
+def execute_with_fallback(model: str, messages: list, **kwargs):
     keys = [
         os.environ.get(f"GROQ_API_KEY_{i}") if i > 1 else os.environ.get("GROQ_API_KEY") 
         for i in range(1, 12)
     ]
+    
+    last_error = None
     for key in keys:
-        if key:
-            try:
-                return Groq(api_key=key)
-            except Exception:
-                continue
-    return None
+        if not key:
+            continue
+            
+        try:
+            client = Groq(api_key=key)
+            completion = client.chat.completions.create(
+                model=model,
+                messages=messages,
+                **kwargs
+            )
+            return completion
+        except Exception as e:
+            print(f"Groq API Error with a key (retrying...): {e}")
+            last_error = e
+            continue
+            
+    raise Exception(f"All Groq API keys failed. Last error: {last_error}")
 
 SYSTEM_PROMPT_TEMPLATE = """You are an expert Product Manager Analyst for Myntra's Wishlist Discovery Engine.
 Your goal is to extract deep, qualitative, narrative insights from user feedback data.
@@ -40,10 +53,6 @@ Guidelines for your output:
 """
 
 def generate_insight(prompt: str, context: dict, response_format_example: dict) -> dict:
-    client = get_groq_client()
-    if not client:
-        return {"error": "Groq client failed to initialize."}
-        
     context_str = json.dumps(context, indent=2)
     format_str = json.dumps(response_format_example, indent=2)
     
@@ -58,14 +67,14 @@ Respond STRICTLY in the following JSON format:
 """
 
     try:
-        completion = client.chat.completions.create(
+        completion = execute_with_fallback(
             model="qwen/qwen3.8-27b",
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT_TEMPLATE},
                 {"role": "user", "content": user_prompt}
             ],
             temperature=0.2,
-            max_tokens=1500,
+            max_tokens=800,
             response_format={"type": "json_object"}
         )
         

@@ -1,0 +1,29 @@
+# Fix Groq API Errors (Key Rotation & Token Limits)
+
+This plan addresses the two root causes of the AI failures: the hardcoded `max_tokens` exceeding free tier limits, and the flawed API key rotation logic that always fails on the first key.
+
+## Proposed Changes
+
+### 1. Fix Backend AI Client (`backend/ai/llm_client.py`)
+Currently, this file has `max_tokens=1500` (which breaks the 1000 limit) and uses the flawed `get_groq_client()` logic.
+- Remove the local `get_groq_client` loop.
+- Introduce a robust wrapper function `execute_with_fallback()` that takes the completion arguments.
+- The wrapper will loop through all 11 API keys. It will attempt the API call, and if it catches a `RateLimitError` (429) or authentication error, it will immediately retry with the next key in the list.
+- Decrease `max_tokens` from 1500 to 800 to fit safely within the free tier.
+
+#### [MODIFY] [llm_client.py](file:///c:/Users/DELL/Myntra/backend/ai/llm_client.py)
+
+### 2. Fix RAG Copilot Client (`backend/rag/copilot.py`)
+Currently, this file has `max_tokens=1024` and its own flawed copy of `get_groq_client()`.
+- Remove the local `get_groq_client()` implementation.
+- Import the new `execute_with_fallback()` function from `backend.ai.llm_client`.
+- Replace the direct `groq_client.chat.completions.create` call with the wrapper function.
+- Decrease `max_tokens` from 1024 to 800.
+
+#### [MODIFY] [copilot.py](file:///c:/Users/DELL/Myntra/backend/rag/copilot.py)
+
+## Verification Plan
+### Manual Verification
+1. Open the UI and click "Generate Insights" on the Overview or Radar pages (triggers `llm_client.py`).
+2. Type a custom question in the Discovery Copilot (triggers `rag/copilot.py`).
+3. Both should successfully return results using an active key and the lowered token limits without throwing 429 errors.

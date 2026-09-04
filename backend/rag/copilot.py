@@ -3,8 +3,7 @@ import sys
 import sqlite3
 from dotenv import load_dotenv
 import chromadb
-from groq import Groq
-
+from ai.llm_client import execute_with_fallback
 load_dotenv(os.path.join(os.path.dirname(__file__), "../.env"))
 
 # Lazy-loaded model to avoid OOM on low-memory servers (Railway free tier = 1GB)
@@ -16,19 +15,6 @@ def _get_embedding_model():
         from sentence_transformers import SentenceTransformer
         _embedding_model = SentenceTransformer('BAAI/bge-small-en-v1.5')
     return _embedding_model
-
-def get_groq_client():
-    keys = [
-        os.environ.get(f"GROQ_API_KEY_{i}") if i > 1 else os.environ.get("GROQ_API_KEY") 
-        for i in range(1, 12)
-    ]
-    for key in keys:
-        if key:
-            try:
-                return Groq(api_key=key)
-            except Exception:
-                continue
-    return None
 
 def get_dataset_summary():
     db_path = os.path.join(os.path.dirname(__file__), "../data/db/discovery.db")
@@ -92,7 +78,6 @@ def query_copilot(question: str, top_k: int = 10, filters: dict = None) -> dict:
             "rating": None
         })
     
-    groq_client = get_groq_client()
     system_prompt = """You are the Myntra Discovery Copilot, an AI assistant for Product Managers investigating Wishlist-to-Purchase conversion barriers.
 Your job is to answer questions based *strictly* on the user feedback records provided in the context.
 Rules for Evidence vs Inference:
@@ -106,14 +91,14 @@ Rules for Evidence vs Inference:
 
     answer = ""
     try:
-        completion = groq_client.chat.completions.create(
+        completion = execute_with_fallback(
             model="qwen/qwen3.8-27b",
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}
             ],
             temperature=0.1,
-            max_tokens=1024,
+            max_tokens=800,
         )
         answer = completion.choices[0].message.content
     except Exception as e:
