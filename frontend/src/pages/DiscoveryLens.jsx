@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react'
 import { Search, ChevronLeft, ChevronRight, Filter, X, Bot, Activity } from 'lucide-react'
 import axios from 'axios'
 
+const API_URL = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000'
+
 export default function DiscoveryLens() {
   const [data, setData] = useState([])
   const [analytics, setAnalytics] = useState(null)
@@ -33,7 +35,7 @@ export default function DiscoveryLens() {
       if (filters.wishlist_relevance) params.wishlist_relevance = filters.wishlist_relevance
       if (filters.theme_id) params.theme_id = filters.theme_id
       
-      const response = await axios.get('http://127.0.0.1:8000/api/lens/records', { params })
+      const response = await axios.get(`${API_URL}/api/lens/records`, { params })
       setData(response.data.data)
       setPagination(response.data.pagination)
     } catch (error) {
@@ -53,7 +55,7 @@ export default function DiscoveryLens() {
       if (filters.wishlist_relevance) params.wishlist_relevance = filters.wishlist_relevance
       if (filters.theme_id) params.theme_id = filters.theme_id
       
-      const response = await axios.get('http://127.0.0.1:8000/api/lens/analytics', { params })
+      const response = await axios.get(`${API_URL}/api/lens/analytics`, { params })
       setAnalytics(response.data)
     } catch (error) {
       console.error("Failed to fetch analytics:", error)
@@ -71,7 +73,7 @@ export default function DiscoveryLens() {
       if (filters.wishlist_relevance) params.wishlist_relevance = filters.wishlist_relevance
       if (filters.theme_id) params.theme_id = filters.theme_id
 
-      const res = await axios.get('http://127.0.0.1:8000/api/lens/insights', { params })
+      const res = await axios.get(`${API_URL}/api/lens/insights`, { params })
       setInsight(res.data)
     } catch (err) {
       console.error(err)
@@ -82,7 +84,7 @@ export default function DiscoveryLens() {
 
   const fetchThemes = async () => {
     try {
-      const response = await axios.get('http://127.0.0.1:8000/api/themes')
+      const response = await axios.get(`${API_URL}/api/themes`)
       setThemes(response.data.themes)
     } catch (error) {
       console.error("Failed to fetch themes:", error)

@@ -2,6 +2,8 @@ import React, { useState } from 'react'
 import axios from 'axios'
 import { Bot, Send, User, ExternalLink, AlertCircle, ChevronDown, ChevronUp } from 'lucide-react'
 
+const API_URL = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000'
+
 const RESEARCH_QUESTIONS = [
   "Why do users struggle to discover new music?", // Adapting slightly to match the aesthetic or keeping original ones
   "What are the most common frustrations with recommendations?",
@@ -57,7 +59,7 @@ export default function DiscoveryCopilot() {
     setExpandedEvidenceIdx(null)
 
     try {
-      const response = await axios.post('http://127.0.0.1:8000/api/copilot/ask', { 
+      const response = await axios.post(`${API_URL}/api/copilot/ask`, { 
         question: question 
       })
       

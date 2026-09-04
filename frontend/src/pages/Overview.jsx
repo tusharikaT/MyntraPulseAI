@@ -3,6 +3,8 @@ import axios from 'axios'
 import { PieChart, Pie, Cell, Tooltip, Legend, ResponsiveContainer, AreaChart, Area, XAxis, YAxis, CartesianGrid } from 'recharts'
 import { Folder, Smartphone, Globe, MessageSquare, Bot } from 'lucide-react'
 
+const API_URL = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000'
+
 export default function Overview() {
   const [data, setData] = useState(null)
   const [loading, setLoading] = useState(true)
@@ -12,7 +14,7 @@ export default function Overview() {
 
   const fetchInsights = () => {
     setLoadingInsights(true)
-    axios.get('http://127.0.0.1:8000/api/overview/insights', { params: filters })
+    axios.get(`${API_URL}/api/overview/insights`, { params: filters })
       .then(res => {
         setInsights(res.data)
         setLoadingInsights(false)
@@ -25,7 +27,7 @@ export default function Overview() {
 
   const fetchOverview = () => {
     setLoading(true)
-    axios.get('http://127.0.0.1:8000/api/overview', { params: filters })
+    axios.get(`${API_URL}/api/overview`, { params: filters })
       .then(res => {
         setData(res.data)
         setLoading(false)

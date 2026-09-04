@@ -3,6 +3,8 @@ import axios from 'axios'
 import { Target, Info, ChevronDown, ChevronUp, Bot, MessageSquare } from 'lucide-react'
 import { ScatterChart, Scatter, XAxis, YAxis, ZAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell, LabelList } from 'recharts'
 
+const API_URL = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000'
+
 export default function PMPriorityRadar() {
   const [themes, setThemes] = useState([])
   const [loading, setLoading] = useState(true)
@@ -19,7 +21,7 @@ export default function PMPriorityRadar() {
     setLoadingInsights(true)
     setInsightError(null)
     try {
-      const res = await axios.get('http://127.0.0.1:8000/api/themes/insights')
+      const res = await axios.get(`${API_URL}/api/themes/insights`)
       if (res.data.themes && res.data.themes.length > 0) {
         setInsights(res.data.themes)
       } else {
@@ -34,7 +36,7 @@ export default function PMPriorityRadar() {
   }
 
   useEffect(() => {
-    axios.get('http://127.0.0.1:8000/api/themes')
+    axios.get(`${API_URL}/api/themes`)
       .then(res => {
         setThemes(res.data.themes)
         setLoading(false)
@@ -57,7 +59,7 @@ export default function PMPriorityRadar() {
     setLoadingExamples(true)
     setExamples([])
     try {
-      const res = await axios.get(`http://127.0.0.1:8000/api/themes/${themeId}/examples`)
+      const res = await axios.get(`${API_URL}/api/themes/${themeId}/examples`)
       setExamples(res.data.examples)
     } catch (err) {
       console.error(err)

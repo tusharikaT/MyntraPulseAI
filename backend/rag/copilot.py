@@ -2,11 +2,20 @@ import os
 import sys
 import sqlite3
 from dotenv import load_dotenv
-from sentence_transformers import SentenceTransformer
 import chromadb
 from groq import Groq
 
 load_dotenv(os.path.join(os.path.dirname(__file__), "../.env"))
+
+# Lazy-loaded model to avoid OOM on low-memory servers (Railway free tier = 1GB)
+_embedding_model = None
+
+def _get_embedding_model():
+    global _embedding_model
+    if _embedding_model is None:
+        from sentence_transformers import SentenceTransformer
+        _embedding_model = SentenceTransformer('BAAI/bge-small-en-v1.5')
+    return _embedding_model
 
 def get_groq_client():
     keys = [
@@ -36,7 +45,7 @@ def get_dataset_summary():
         return {"total_records": 0, "source_mix": {}}
 
 def query_copilot(question: str, top_k: int = 10, filters: dict = None) -> dict:
-    model = SentenceTransformer('BAAI/bge-small-en-v1.5')
+    model = _get_embedding_model()
     query_embedding = model.encode(question).tolist()
     
     client = chromadb.PersistentClient(path=os.path.join(os.path.dirname(__file__), "../data/chroma"))

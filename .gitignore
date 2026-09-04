@@ -16,12 +16,8 @@ build/
 # OS Files
 .DS_Store
 
-# Ignore all markdown files and the docs folder
-*.md
+# Documentation (internal docs only — READMEs are tracked)
 docs/
-
-# CRITICAL EXCEPTIONS for deployment:
-!frontend/README.md
 
 # Fake data generation scripts and exports
 backend/scripts/generate_synthetic_data.py

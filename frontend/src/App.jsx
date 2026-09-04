@@ -8,12 +8,14 @@ import DiscoveryLens from './pages/DiscoveryLens'
 import PMPriorityRadar from './pages/PMPriorityRadar'
 import DiscoveryCopilot from './pages/DiscoveryCopilot'
 
+const API_URL = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000'
+
 export default function App() {
   const [activeTab, setActiveTab] = useState('Overview')
   const [totalRecords, setTotalRecords] = useState(null)
 
   useEffect(() => {
-    axios.get('http://127.0.0.1:8000/api/overview')
+    axios.get(`${API_URL}/api/overview`)
       .then(res => setTotalRecords(res.data.reviews_analyzed))
       .catch(err => console.error(err))
   }, [])
